@@ -65,17 +65,16 @@ Full field reference and the "how to add a future PDF" workflow:
 
 ## Deploying to Cloudflare Pages
 
-1. Push this repo to GitHub and click **Create application → Pages → Connect to Git**.
-2. Select the repo, branch **`main`**, framework preset **Vite**.
-3. Build command: **`npm run build`**, build output directory: **`dist`**.
-4. Deploy. `public/_redirects` ships `/* /index.html 200`, so client-side routes
-   (`/review`, `/read/:id`, `/exam`, `/flashcards`, `/progress`) resolve on
-   refresh and direct links.
+1. Push this repo to GitHub, then in the Cloudflare dashboard click **Workers & Pages → Create → Pages → Connect to Git**.
+2. Select this repo, set the production branch to **`main`**, and choose the **Vite** framework preset.
+3. Set the build command to **`npm run build`**, the build output directory to **`dist`**, and the project root to **`/`**.
+4. Deploy. No `_redirects` file is needed — Cloudflare Pages automatically serves `index.html` for unmatched client-side routes, so deep links (`/review`, `/read/:id`, `/reviewer`, `/flashcards`, `/exam`, `/practice`, `/progress`) resolve on refresh and direct visits.
+
+> **WARNING — wrong project type:** if the project was created as a **Worker** (for example the dashboard's deploy command shows `npx wrangler deploy`), that is the wrong target for this static Vite SPA and the deploy will fail. Delete the Worker project and recreate it as **Pages → Connect to Git** (or switch the project type to Pages in the dashboard), then redeploy with the settings above.
 
 ## Routing note
 
-The app uses `BrowserRouter`. The SPA fallback in `public/_redirects` is required
-on static hosts; without it, deep links return 404.
+The app uses `BrowserRouter`. Deep links work through Cloudflare Pages' built-in SPA fallback, which serves `index.html` for any unmatched route — no `_redirects` file or extra configuration required. Locally, `npm run preview` serves the production build with the same fallback behavior, so refresh/direct-link behavior can be verified before deploying.
 
 ## License note
 
