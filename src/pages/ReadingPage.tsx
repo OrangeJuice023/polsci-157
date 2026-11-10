@@ -24,6 +24,9 @@ import {
 } from 'lucide-react';
 import { readingById } from '../data/readings';
 import { topicById } from '../data/topics';
+import { writtenQuestions } from '../data/written';
+import { KIND_LABEL } from '../utils/grading';
+import type { WrittenKind } from '../types';
 import { useStudy } from '../store/study';
 import { Badge, EmptyState, PageHeader, ProgressBar } from '../components/ui';
 import type { Annotation } from '../types';
@@ -641,6 +644,49 @@ export function ReadingPage() {
                 <li key={q}>{q}</li>
               ))}
             </ol>
+          </section>
+
+          <section className="companion-section">
+            <h2>
+              <GraduationCap size={15} aria-hidden="true" /> Exam Preparation Guide
+            </h2>
+            <p className="muted">
+              Potential examination points from this reading — practice prompts, not guaranteed
+              exam questions.
+            </p>
+            {(['enumerate', 'define', 'identify', 'explain'] as WrittenKind[]).map((kind) => {
+              const items = writtenQuestions.filter(
+                (q) => q.readingId === reading.id && q.kind === kind,
+              );
+              if (items.length === 0) return null;
+              const verb =
+                kind === 'enumerate'
+                  ? 'What to enumerate'
+                  : kind === 'define'
+                    ? 'Terms to define'
+                    : kind === 'identify'
+                      ? 'People, concepts & institutions to identify'
+                      : 'Arguments to explain';
+              return (
+                <div key={kind} className="guide-kind">
+                  <h3>{verb}</h3>
+                  <ul>
+                    {items.map((q) => (
+                      <li key={q.id}>
+                        {q.prompt}
+                        {q.pageRef ? <small className="muted"> ({q.pageRef})</small> : null}
+                      </li>
+                    ))}
+                  </ul>
+                  <Link
+                    className="link"
+                    to={`/exam/run?bank=${reading.id}&mode=practice&format=${kind}&count=all&timelimit=0`}
+                  >
+                    Practice {KIND_LABEL[kind]} questions
+                  </Link>
+                </div>
+              );
+            })}
           </section>
 
           <section className="companion-section">

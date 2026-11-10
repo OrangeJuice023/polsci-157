@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Check, RefreshCw, RotateCcw, Shuffle } from 'lucide-react';
-import { SAMPLE_NOTICE, topicById, topics } from '../data/topics';
+import { topicById, topics } from '../data/topics';
 import { flashcards } from '../data/flashcards';
 import { useStudy } from '../store/study';
-import { Badge, EmptyState, PageHeader, ProgressBar, SampleNotice } from '../components/ui';
+import { Badge, EmptyState, PageHeader, ProgressBar } from '../components/ui';
 import type { Flashcard } from '../types';
 
 type Mode = 'all' | 'missed' | 'hard';
@@ -235,7 +235,6 @@ export function Flashcards() {
         description="Flip cards, grade honestly, and clear the queue."
       />
 
-      <SampleNotice text={SAMPLE_NOTICE} />
 
       {phase === 'setup' && (
         <div className="flash-setup card">

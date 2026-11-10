@@ -10,9 +10,9 @@ built around the actual POLSCI 157 assigned readings.
 - **Flashcards** — active recall linked to readings and concepts.
 - **Study Progress** — mastery tracking, exam history, weakness analysis.
 
-> The five illustrative sample topics are placeholders. The two assigned
-> readings (Ruland, Pilapil) are real course content sourced from the PDFs in
-> `source-materials/`. See [docs/CONTENT_GUIDE.md](docs/CONTENT_GUIDE.md).
+> All reviewer content comes from the two assigned readings (Rüland,
+> Pilapil), sourced from the PDFs in `source-materials/` plus supplementary
+> lecture notes. See [docs/CONTENT_GUIDE.md](docs/CONTENT_GUIDE.md).
 
 ## Features
 

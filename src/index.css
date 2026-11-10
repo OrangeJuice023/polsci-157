@@ -816,6 +816,11 @@ button.link {
   .reader-text { padding: 18px; }
 }
 
+.guide-kind { margin-top: 10px; display: flex; flex-direction: column; gap: 4px; }
+.guide-kind h3 { font-size: 13px; color: var(--forest); margin: 0; }
+.guide-kind ul { margin: 0; padding-left: 18px; list-style: disc; font-size: 13px; display: flex; flex-direction: column; gap: 3px; }
+.guide-kind .link { font-size: 13px; align-self: flex-start; }
+
 /* ---------- Center nav prominence ---------- */
 .nav-group {
   font-size: 11px;
@@ -909,4 +914,220 @@ button.link {
   .exam-grid { grid-template-columns: 1fr; }
   .score-ring { font-size: 40px; }
   .exam-timer { font-size: 22px; }
+}
+
+/* ---------- Exam DNA ---------- */
+/* Exam DNA: professor-format written questions (append to the exam stylesheet). */
+
+.written-answer {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.75rem;
+  border: 1px solid var(--line, #d7dde5);
+  border-radius: 0.5rem;
+  font: inherit;
+  line-height: 1.5;
+  resize: vertical;
+}
+
+.written-answer:disabled {
+  background: var(--muted-bg, #f4f6f8);
+  color: inherit;
+}
+
+.enum-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.enum-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.enum-num {
+  min-width: 1.75rem;
+  text-align: right;
+  color: var(--muted, #66707c);
+  font-variant-numeric: tabular-nums;
+}
+
+.enum-row input[type="text"] {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--line, #d7dde5);
+  border-radius: 0.5rem;
+  font: inherit;
+}
+
+.enum-row input[type="text"]:disabled {
+  background: var(--muted-bg, #f4f6f8);
+}
+
+.rubric-list {
+  list-style: none;
+  margin: 0.5rem 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+}
+
+.rubric-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.rubric-hit svg {
+  color: var(--green, #1e7e34);
+  flex: none;
+  margin-top: 0.15rem;
+}
+
+.rubric-miss {
+  color: var(--muted, #66707c);
+}
+
+.rubric-miss svg {
+  color: var(--red, #c0392b);
+  flex: none;
+  margin-top: 0.15rem;
+}
+
+.ref-answer {
+  border-left: 3px solid var(--accent, #2f6fed);
+  background: var(--muted-bg, #f4f6f8);
+  padding: 0.625rem 0.875rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin: 0.75rem 0;
+}
+
+.ref-answer p {
+  margin: 0.25rem 0;
+}
+
+.self-rate {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--line, #d7dde5);
+}
+
+.rapid-timer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.375rem;
+  margin-bottom: 0.75rem;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+}
+
+.rapid-timer.urgent {
+  color: var(--red, #c0392b);
+}
+
+.format-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 0.625rem;
+  margin: 0.75rem 0;
+}
+
+.format-bars p {
+  margin: 0 0 0.25rem;
+}
+
+.answer-verbatim {
+  white-space: pre-wrap;
+  background: var(--muted-bg, #f4f6f8);
+  border: 1px solid var(--line, #d7dde5);
+  border-radius: 0.5rem;
+  padding: 0.625rem 0.875rem;
+  margin: 0.5rem 0;
+}
+
+/* ---------- Exam DNA center ---------- */
+.howto {
+  border: 1px solid var(--line, #e2e2e2);
+  border-radius: 12px;
+  padding: 0.9rem 1.25rem;
+  margin-bottom: 1.5rem;
+  background: var(--surface, #fff);
+}
+
+.howto summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 1.05rem;
+}
+
+.howto-body {
+  margin-top: 0.75rem;
+}
+
+.howto-body ul {
+  margin: 0.5rem 0;
+  padding-left: 1.25rem;
+  display: grid;
+  gap: 0.3rem;
+}
+
+.dna-blueprint {
+  border: 1px solid var(--line, #e2e2e2);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin-bottom: 1.5rem;
+  background: var(--surface, #fff);
+}
+
+.dna-blueprint h2 {
+  margin-top: 0;
+}
+
+.dna-weights {
+  margin: 0.75rem 0;
+  padding-left: 1.25rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.preset-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0;
+}
+
+.rapid-box {
+  border: 1px dashed var(--line, #e2e2e2);
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.rapid-box h2 {
+  margin-top: 0;
+}
+
+.format-table {
+  display: grid;
+  gap: 0.6rem;
+  margin: 0.75rem 0;
+}
+
+.format-row {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  border: 1px solid var(--line, #e2e2e2);
+  border-radius: 10px;
+  padding: 0.6rem 0.8rem;
+}
+
+.format-row .bar {
+  grid-column: 1 / -1;
 }

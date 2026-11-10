@@ -43,24 +43,29 @@ Example:
 
 ```ts
 {
-  id: "t-power",
-  code: "Week 1",
-  title: "Power and Authority",
-  description: "Coercion, persuasion, and agenda-setting as lenses on power.",
+  id: "t-ruland",
+  code: "Doc 7",
+  title: "Constitutional Debate in the Philippines (Rüland)",
+  description: "One-line summary of the article's thesis.",
   sample: false, // set false only when this is real syllabus content
+  readingId: "ruland",
+  source: {
+    file: "Pol Sci 157_Torres-Pilapil_Doc 7_Ruland, Jurgen_Constitutional Debate.pdf",
+    label: "Doc 7",
+  },
   subtopics: [
     {
-      id: "t-power-s1",
-      title: 'What "power" means in political analysis',
-      summary: "Contrasts coercion, persuasion, and agenda-setting.",
+      id: "t-ruland-s2",
+      title: "“Perils of presidentialism” under scrutiny",
+      summary: "Concedes the fixed term, rebuts the further charges.",
       definitions: [
-        { term: "Coercive power", definition: "Behavior shaped through threats or sanctions." },
+        { term: "Fixed term of office", definition: "Six-year term, removable only by impeachment." },
       ],
-      keyArguments: ["Observable decisions reveal only one face of power."],
-      scholars: [{ name: "Author (Year)", contribution: "One-line contribution." }],
-      examples: ["A committee chair declining to schedule a vote."],
-      takeaways: ["State your definition of power before applying it."],
-      readingTimeMinutes: 6,
+      keyArguments: ["The fixed term is the genuine Achilles’ heel (PDF p. 7)."],
+      scholars: [{ name: "Juan J. Linz", contribution: "“Perils of presidentialism” thesis." }],
+      examples: ["Estrada’s lame-duck-versus-ouster dilemma."],
+      takeaways: ["Concede-then-rebut is the author's signature move."],
+      readingTimeMinutes: 12,
     },
   ],
 }
@@ -185,3 +190,21 @@ recommendations use this field.
   Application → Local Storage → delete the key, then reload.
 - Content edits never migrate progress: deleting a card/subtopic id leaves
   orphaned state that is ignored; renaming an id resets that item's history.
+
+## 8. Written bank + Exam DNA formats
+
+- Written questions live in `src/data/written.ts` as `WrittenQuestion`
+  objects: `id`, `topicId`, `readingId`, `kind`, `prompt`, `referenceAnswer`,
+  `elements[]` (each with `text`, `points`, `aliases[]`), `maxPoints`,
+  `expectedCount` (enumerate only), plus `explanation`, `pageRef`, `concept`.
+- `kind` is one of `enumerate | define | identify | explain` — the four
+  professor formats. Keep each reading near the DNA default (25/25/20/30).
+- Choice questions (`mcq`, `truefalse`) stay supplementary. The exam runner
+  defaults to `mixed` (all six formats, both pools guaranteed for counts ≥ 2);
+  `format=balanced` selects the DNA-weighted written mix.
+- Grading: `gradeWritten` in `src/utils/grading.ts` auto-estimates against
+  `elements` + `aliases`; the student confirms/adjusts via self-rating before
+  saving. Never present the estimate as definitive — the UI labels it.
+- Coverage audits: verify every patch claim against
+  `source-materials/*.extracted.txt` (exact page markers) before adding it to
+  any bank, then run `python scripts/verify_annotations.py`.

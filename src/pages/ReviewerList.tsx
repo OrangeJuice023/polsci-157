@@ -1,9 +1,9 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, BookOpen, CheckCircle2, Circle } from 'lucide-react';
-import { SAMPLE_NOTICE, topics } from '../data/topics';
+import { topics } from '../data/topics';
 import { useStudy } from '../store/study';
-import { Badge, PageHeader, ProgressBar, SampleNotice, SearchInput, EmptyState } from '../components/ui';
+import { Badge, PageHeader, ProgressBar, SearchInput, EmptyState } from '../components/ui';
 
 export function ReviewerList() {
   const [query, setQuery] = useState('');
@@ -35,7 +35,6 @@ export function ReviewerList() {
           <SearchInput value={query} onChange={setQuery} placeholder="Search topics…" label="Search reviewer topics" />
         }
       />
-      <SampleNotice text={SAMPLE_NOTICE} />
 
       {filtered.length === 0 ? (
         <EmptyState

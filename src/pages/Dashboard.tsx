@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom';
 import { ArrowRight, BookOpen, ClipboardList, Layers, Library } from 'lucide-react';
-import { SAMPLE_NOTICE, topics } from '../data/topics';
+import { topics } from '../data/topics';
 import { readings } from '../data/readings';
 import { flashcards } from '../data/flashcards';
 import { questions } from '../data/questions';
 import { useStudy } from '../store/study';
-import { Badge, PageHeader, ProgressBar, SampleNotice, StatCard } from '../components/ui';
+import { Badge, PageHeader, ProgressBar, StatCard } from '../components/ui';
 import type { StudySession } from '../types';
 
 function timeAgo(iso: string): string {
@@ -94,7 +94,6 @@ export function Dashboard() {
         }
       />
 
-      <SampleNotice text={SAMPLE_NOTICE} />
 
       <section className="grid two" aria-label="Study centers">
         <div className="card">

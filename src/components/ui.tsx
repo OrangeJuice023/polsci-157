@@ -104,11 +104,3 @@ export function SearchInput({
   );
 }
 
-export function SampleNotice({ text }: { text: string }) {
-  return (
-    <div className="notice" role="note">
-      <Badge tone="amber">Sample</Badge>
-      <p>{text}</p>
-    </div>
-  );
-}

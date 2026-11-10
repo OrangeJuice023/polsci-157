@@ -89,6 +89,47 @@ export interface QuestionResult {
   questionId: string;
   correct: boolean;
   concept?: string;
+  /** 'mcq' | 'truefalse' | WrittenKind; absent on legacy choice results. */
+  format?: string;
+  points?: number;
+  maxPoints?: number;
+}
+
+/* ---------- Exam DNA: professor-format written questions ---------- */
+
+export type WrittenKind = 'enumerate' | 'define' | 'identify' | 'explain';
+
+export interface RubricElement {
+  /** Display text of the required point. */
+  text: string;
+  /** Acceptable key terms/phrases (lowercase, no punctuation); ANY match counts. */
+  match: string[];
+}
+
+export interface WrittenQuestion {
+  id: string;
+  topicId: string;
+  readingId?: string;
+  kind: WrittenKind;
+  prompt: string;
+  referenceAnswer: string;
+  elements: RubricElement[];
+  acceptableAlternatives?: string[];
+  misconceptions?: string[];
+  explanation: string;
+  pageRef?: string;
+  concept?: string;
+  maxPoints: number;
+  /** enumerate: expected list length, shown as "List N". */
+  expectedCount?: number;
+}
+
+export interface GradeResult {
+  score: number;
+  maxScore: number;
+  matched: boolean[];
+  /** Always estimated for open-ended answers; the UI must say so. */
+  estimated: true;
 }
 
 export interface StudySession {

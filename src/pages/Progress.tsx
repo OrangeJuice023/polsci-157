@@ -8,6 +8,7 @@ import { questions } from '../data/questions';
 import { readingById } from '../data/readings';
 import { useStudy } from '../store/study';
 import { Badge, EmptyState, PageHeader, ProgressBar, StatCard } from '../components/ui';
+import { FormatAnalytics } from '../components/FormatAnalytics';
 import type { StudyProgress, StudySession } from '../types';
 
 const STORAGE_KEY = 'polsci157.progress.v1';
@@ -302,6 +303,16 @@ export function Progress() {
               ))}
             </div>
           )}
+        </div>
+      </section>
+
+      <section className="grid" aria-label="Performance by exam format">
+        <div className="card">
+          <div className="card-head">
+            <h2>Performance by exam format</h2>
+            <Badge>Exam DNA</Badge>
+          </div>
+          <FormatAnalytics sessions={progress.sessions} />
         </div>
       </section>
 
