@@ -1,0 +1,1054 @@
+SOURCE: Pol Sci 157_Torres-Pilapil_Doc 7_Ruland, Jurgen_Constitutional Debate.pdf
+METHOD: text-layer
+PAGES: 24
+
+===== PDF PAGE 1 =====
+CONSTITUTIONAL DEBATES 
+IN THE PHILIPPINES 
+From Presidentialism to 
+Parliamentarianism? 
+J ¨urgen R¨uland
+Abstract
+The ouster of President Joseph Estrada initiated a new constitutional debate in 
+the Philippines.  In view of the fixed term of office, which allows for removal of a 
+malperforming president only by way of an impeachment, political analysts are 
+demanding a shift from the existing presidential to a parliamentary system of 
+government.  This article argues that such a shift does not necessarily solve 
+the problems blamed on the 1987 Constitution, such as the rigidities of the 
+presidential term, executive-legislative gridlock, presidential concentration of 
+power, political instability, a weak party system, populism, and patronage.  It 
+proposes incremental reforms by amending the 1987 Constitution where 
+needed, without scrapping the presidential system of government. 
+While the Third Wave of democratization 1 is rolling out, 
+many new democracies are exhibiting the difficulties of consolidating the 
+democratic process.  Although full-fledged authoritarian reversals have been 
+J¨urgen R¨uland is Professor of Political Science at the University of 
+Freiburg and director of the Arnold Bergstraesser Institute, Freiburg, Germany.  This article is 
+partly based on field work for a project entitled “ Parliaments in Asia,”  commissioned and spon- 
+sored by the Konrad Adenauer Foundation in Germany in September 2001.  The support of the 
+foundation’ s country representative in the Philippines, Dr. Willibold Frehner, is greatly appreci- 
+ated.  Opinions expressed in the article are exclusively those of the author. 
+Asian Survey , 43:3, pp. 461– 484.  ISSN: 0004– 4687 
+Ó 2003 by The Regents of the University of California.  All rights reserved. 
+Send Requests for Permission to Reprint to: Rights and Permissions, University of California 
+Press, Journals Division, 2000 Center St., Ste. 303, Berkeley, CA 94704– 1223. 
+1. Samuel P. Huntington, The Third Wave: Democratization in the Late Twentieth Century 
+(Norman, Okla.: Oklahoma University Press, 1991). 
+461
+
+===== PDF PAGE 2 =====
+462 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+rare, the categorization of many Third Wave democracies as  illiberal, 2 defec-
+tive,3 or delegative democracies 4 is testimony of their institutional weakness. 
+The political transitions in many parts of the world have revived political 
+scientists’  interest in institutions.  While the old institutionalism treated insti- 
+tutions from a mainly historical and descriptive perspective, neoinstitutional- 
+ists believe that institutions, far from being only a function of socioeconomic 
+structure or the result of actors’  choices, in their own right determine the 
+performance of a political system.  Or, put differently: institutions are not 
+only treated as dependent, but also as independent variables, with the ability 
+to change the behavior of political actors.  Accordingly, institutionalists be- 
+lieve that political change is manageable and may be best attained through 
+institutional engineering. 5
+Not surprisingly, therefore, charter change has been a persistent theme in 
+the Philippines ever since the country’ s redemocratization following the 
+ouster of former strongman Ferdinand E. Marcos by a peaceful display of 
+“ people’ s power”  in February 1986.  Since then the Philippines, like other 
+Third Wave democracies, has been struggling with democratic consolidation. 
+While the country seemed to have gone a long way toward this goal under the 
+presidency of Fidel V. Ramos (1992– 98), the abortive impeachment trial and 
+subsequent removal from office of President Joseph E. Estrada in January 
+2001 through people’ s power has reignited the constitutional debate with un- 
+precedented vigor.  Among political scientists, constitutional lawyers, jour- 
+nalists, and politicians, the clamor for major constitutional amendments and 
+2. Fareed Zakaria, “ The Rise of Illiberal Democracy,”  Foreign Affairs  76:6 (1997), pp. 
+22– 44; Larry Diamond, “ Is the Third Wave Over?”  Journal of Democracy  10:1 (1999), pp. 
+20– 37; and Aurel Croissant and Peter Thiery, “ Von defekten und anderen Demokratien”  [On 
+defective and other democracies], in WeltTrends [World Trends], no. 29 (Winter 2000/2001), pp. 
+9–32.
+3. Aurel Croissant, Von der Transformation zur defekten Demokratie:  Demokratische 
+Entwicklung in den Philippinen, S ¨udkorea und Thailand  [From transformation to defective de- 
+mocracy:  Democratic development in the Philippines, South Korea and Thailand] (Opladen, 
+Germany: Westdeutscher Verlag, 2002). 
+4. Guillermo O’ Donnell, “ Delegative Democracy,”  Journal of Democracy  5:1 (1994), pp. 
+55–70.
+5. For representatives of the institutional approach, see Juan J. Linz, “ The Perils of Presiden- 
+tialism,” Journal of Democracy  1:1 (January 1990), pp. 51– 69; Arend Lijphart, Democracies: 
+Patterns of Majoritarian and Consensus Government in Twenty-One Countries  (New Haven: 
+Yale University Press, 1984); Giovanni Sartori, Constitutional Engineering: An Inquiry into 
+Structures, Incentives and Outcomes (New York: New York University Press, 1994); and Scott 
+Mainwaring and Matthew Soberg Shugart, eds., Presidentialism and Democracy in Latin 
+America (Cambridge: Cambridge University Press, 1997).
+
+===== PDF PAGE 3 =====
+J ¨URGEN R ¨ULAND 463
+even a complete rewriting of the Constitution has been rapidly growing. 6
+The desire for major changes includes a widely shared understanding that the 
+country’ s time-honored presidential system should be replaced by a parlia- 
+mentary form of government. 7
+Many of the arguments exchanged in the present constitutional discourse 
+echo the Latin American presidentialism-parliam entarianism debate initiated 
+by Juan J. Linz in the late 1980s.  The following sections scrutinize these 
+arguments against the background of other Southeast Asian experiences, 
+most notably Thailand’ s, and the earlier Latin American debate.  To this end, 
+the article starts with a short contextualization of the Philippines debate, 
+before examining the arguments raised against presidentialism and in favor of 
+parliamentarianism.  The article concludes with a note of caution about radi- 
+cal changes and a plea for a more pragmatic approach based on amendments 
+of the existing presidential system. 
+Philippine Presidentialism under 
+the 1987 Constitution 
+The present political system of the Philippines is framed by the 1987 Consti- 
+tution.  The latter replaced the provisional Freedom Constitution promulgated 
+by President Corazon C. Aquino shortly after the collapse of the Marcos dic- 
+tatorship.  Vesting the president with far-reaching executive and legislative 
+powers, the interim charter lacked democratic credentials.  It served chiefly 
+as a presidential device to dismantle the remnants of the Marcos regime. 
+In March 1986, as one of her steps to restore the democratic order, Presi- 
+dent Aquino appointed 50 members of a Constitutional Commission.  In less 
+than six months, the Commission drafted a new constitution.  The draft was 
+widely discussed in public hearings all over the country, and subsequently 
+was ratified by the electorate in a referendum with a three-fourths’  majority 
+in February 1987. 
+After the Malolos Constitution (1899), the 1935 Commonwealth Constitu- 
+tion, and the authoritarian Constitution of 1973, the 1987 Constitution is the 
+fourth major charter of the country.  It revived the presidential system of the 
+1935 Constitution, which lasted until the declaration of martial law by Presi- 
+dent Marcos in September 1972.  Key features of this presidential order, 
+which, due to its colonial origin was mainly patterned along the American 
+political system, were a directly elected president, an executive-legislati ve 
+6. For a compilation of voices calling for a parliamentary form of government, see Camilo L. 
+Sabio, “ A Clamor That Could Not Be Ignored,”  speech at the Manila Bay Breakfast Club, July 
+20, 2001 (mimeographed paper). 
+7. Jose V. Abueva et al., eds., Towards a Federal Republic of the Philippines  (Marikina City, 
+Metro Manila:  Center for Social Policy and Governance, Kalayaan College, 2002).
+
+===== PDF PAGE 4 =====
+464 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+relationship characterized by personal incompatibility and functional checks 
+and balances, a bicameral Congress, and, deviating from the American mod- 
+el, a unitary state. 
+Typical for a political transition, the 1987 Constitution was drafted in great 
+haste.  The power vacuum left by the ancien regime had to be filled before 
+the latter could regroup and challenge the new order.  A compounding factor 
+was the legitimacy gap of the Aquino administration which, deprived of an 
+electoral victory by the incumbent Marcos regime’ s massive cheating in the 
+1986 snap presidential elections, rode to power on the coattails of people’ s 
+power.  The referendum on the constitution was thus also a plebiscite on the 
+Aquino regime. 8
+While the hasty drafting was responsible for errors, and left major articles 
+to be specified by congressional legislation, 9 the widespread belief by demo- 
+cratic reformers that detailed constitutional regulations would prevent author- 
+itarian reversals produced a lengthy document, albeit— in the view of its 
+critics— one full of inconsistencies and ambiguities.  This explains why the 
+constitutional debate did not end with the ratification of the 1987 Constitu- 
+tion.  Critics targeted in particular the inefficiencies and costs of lawmaking, 
+caused by what they saw as a lack of coordination and cooperation between 
+the Lower and Upper House.  The ensuing calls for abolition of the Senate 
+also targeted the latter’ s limited size, its perceived lack of representativeness, 
+and its role as a playground for grandstanding presidential pretenders. 10  Crit-
+ics of the Senate often recollected the fact that in the Constitutional Commis- 
+sion, bicameralists prevailed over unicameralists by one vote. 11
+Others went even further and called for a government system based on 
+parliamentary principles, although they occasionally confused a parliamen- 
+tary form of government with a French-type premier-presidential form of 
+government.  Twice, in 1991 and in 1993, the House of Representatives 
+adopted a resolution endorsing the shift to parliamentary government. 12  Also
+in 1991, a group of constitutional scholars submitted a draft constitution pro- 
+viding for a purely parliamentary system.  Yet, such initiatives evaporated 
+8. James Putzel, “ Survival of an Imperfect Democracy in the Philippines,”  Democratization 
+6:1 (Spring 1999), p. 212. 
+9. Joel Rocamora, The Constitutional Amendment Debate: Reforming Political Institutions, 
+Reshaping Political Culture  (Manila: Institute of Popular Democracy, Occasional Paper, no. 4, 
+1997), p. 6. 
+10. For a detailed analysis of the arguments raised against the Senate, see Emil P.  Bolongaita, 
+“ Presidential versus Parliamentary Democracy,”  in Philippine Studies  43:1 (1995), pp. 105– 23. 
+11. Joaquin G. Bernas, A Living Constitution: The Cory Aquino Presidency  (Pasig City, 
+Luzon, Philippines: Anvil Publishing, 2000), p. 52. 
+12. Jose de Venecia, Jr., “ The Stalemate of Democracy and the Two-Stage Parliamentary 
+Process,”  keynote speech, in Summary of Conference Proceedings: Second National Conference 
+on Parliamentary Government  (Manila, December 13– 14, 1993), p.  9.
+
+===== PDF PAGE 5 =====
+J ¨URGEN R ¨ULAND 465
+without much impact for two reasons: first, they were not acceptable to the 
+Senate and, second, in the eyes of the Philippine public, a parliamentary sys- 
+tem was still discredited by the “ bogus parliamentarianism”  of the 1973 Con- 
+stitution. The 1973 Constitution, passed after the imposition of martial law in 
+September 1972, included transitory provisions (Article XVIII) vesting in 
+President Marcos the power and prerogatives under the 1935 Constitution as 
+well as the powers of the president and the prime minister of the 1973 Consti- 
+tution, thereby effectively suspending any division of powers. 1 3
+The constitutional issue resurfaced during the Ramos presidency (1992–
+98).  The election platform of Ramos’ s Lakas ng Sambayanan (Strength of 
+People’ s Power)-National Union of Christian Democrats party (Lakas- 
+NUCD) advocated a parliamentary form of government.  In his inaugural 
+speech, Ramos repeated his preference for parliamentarianism.  Another draft 
+constitution, allegedly commissioned by the National Security Council (NSC) 
+in 1995, at least rhetorically opted for a shift to a parliamentary system. 1 4
+Finally, in 1995, a nongovernmental group called the Association for Gov- 
+ernment Reforms for Advancement (AGORA) proposed far-reaching amend- 
+ments to the Philippine Constitution. 15  Publicly supported by members of 
+the prestigious Philippine Constitutional Association (Philconsa), 1 6 AGORA
+likewise advocated a shift to a parliamentary system.  Yet, in the light of 
+Ramos’ s predilections for a strong state, his erstwhile association with the 
+Marcos regime, and the conspicuous lack of a no-confidence provision in the 
+draft, such proposals nurtured suspicions that Ramos was set to reinstall a 
+more authoritarian political system.  In early 1997, angered by Supreme 
+Court rulings threatening to derail his economic deregulation program, Ra- 
+mos called for constitutional amendments curtailing the powers of what he 
+said was an “ imperial”  and “ intrusive”  judiciary. 1 7
+13. Jose V.  Abueva, “ Philippine Democratization and the Consolidation of Democracy Since 
+the 1986 Revolution: An Overview of the Main Issues, Trends and Prospects,”  in Democratiza- 
+tion: Philippine Perspectives , ed.  Felipe B.  Miranda (Quezon City: University of the Philip- 
+pines Press, 1997), p.  57. 
+14. For a critique of the NSC draft, see Rocamora, Constitutional Amendment Debate, 1997,
+p.  4.
+15. AGORA, Proposed Amendments to the Philippine Constitution  (Manila, Philippines 
+1995).
+16. See the joint conference resolution of AGORA and Philconsa, published in Konrad 
+Adenauer Foundation and Local Government Development Foundation (eds.), Summary of Pro- 
+ceedings.  National Conference on the Philippine Constitution , Manila Hotel, July 12– 13, 1995, 
+pp. 64–65.
+17. Alexander R. Magno, “ Between Populism and Reform: Facing the Test of May 1998,”
+Southeast Asian Affairs 1998  (Singapore: Institute of Southeast Asian Studies, 1998), p. 205, and 
+Business Day , Manila, February 17, 1997, p. 2.
+
+===== PDF PAGE 6 =====
+466 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+The calls for a parliamentary system as well as the economic motives for 
+reopening the constitutional debate were soon overshadowed by moves of the 
+People’ s Initiative for Reform, Modernization and Action (PIRMA), a citi- 
+zens’  group close to Ramos, and by presidential supporters, to abolish the 
+term limits imposed on elected officials by the 1987 Constitution. 1 8  It was
+thus easy for the opponents of amendments to discredit the campaign for a 
+parliamentary system as a thinly veiled strategy to provide Ramos with a 
+second term.  Mass protests endorsed, if not orchestrated, by the archbishop 
+of Manila, Jaime Cardinal Sin, and former President Aquino, forced Ramos 
+to abandon the drive for constitutional amendments.  His successor, Estrada, 
+who launched another initiative for charter changes for the sake of economic 
+liberalization, was likewise blocked by a powerful coalition of forces repre- 
+senting a cross-section of Philippine society that opposed any tampering with 
+the Constitution. 
+The turning point in the debate came with the ouster of Estrada.  Estrada 
+had been accused in early October 2000 by a provincial governor of ac- 
+cepting bribes and kickbacks in connection with illegal gambling opera- 
+tions.1 9  However, the subsequent impeachment trial collapsed in mid- 
+January 2001 after eleven senators blocked a move by House prosecutors to 
+open an envelope allegedly containing information on a bank account incrim- 
+inating Estrada.  In the ensuing mass protests, which became known as 
+EDSA II,2 0 the military eventually withdrew its support from Estrada, and 
+Chief Justice Hilario Davide declared Vice President Gloria Macapagal-Ar- 
+royo president of the Philippines.  Yet, the military’ s role in the ouster of 
+Estrada and the justification of his move by the legal doctrine “ salus populi 
+est suprema lex”  (the welfare of the people is the supreme law) raised ques- 
+tions about the constitutionality of this replacement of an incumbent presi- 
+dent.2 1  Since then, criticism of presidentialism and calls for a parliamentary 
+system have been mounting. 
+18. Magno, “ Between Populism and Reform,”  p. 209. 
+19. Mel C. Labrador, “ The Philippines in 2000: In Search of a Silver Lining,”  Asian Survey 
+41:1 (January/February 2001), p. 223. 
+20. EDSA is the acronym for Epifanio de los Santos Avenue. In February 1986, EDSA was 
+the scene of a standoff between demonstrators and pro-Marcos troops.  Since then, EDSA has 
+become a symbol for the democratic aspirations of the Filipino people.  Unsurprisingly, there- 
+fore, the anti-Estrada protest capitalized on this symbolism and also gathered on EDSA. 
+21. Carl H. Land´e, “ The Return of ‘ People Power’  in the Philippines,”  Journal of Democracy 
+12:2 (April 2001), p. 95.  However, a subsequent Supreme Court ruling declared the ouster of 
+Estrada constitutional.  I am indebted for this information to Jose V. Abueva and Camilo L. 
+Sabio, March 2003.
+
+===== PDF PAGE 7 =====
+J ¨URGEN R ¨ULAND 467
+Perils of Presidentialism? 
+The turbulence surrounding the Estrada ouster directed the Philippine consti- 
+tutional debate toward a key problem of presidential systems: the president’ s 
+fixed term of office.  Since in a presidential system, the chief executive is not 
+responsible to the parliament and thus cannot be replaced by a vote of no- 
+confidence, how is it possible to replace a weak, inept, or corrupt president? 
+The only avenue for removing a nonperforming president is through im- 
+peachment.  However, the rules for an impeachment trial are strictly circum- 
+scribed.  It cannot be initiated merely for political expediency when a 
+president seems to have lost public support.  An impeachment is a means of 
+last resort designed to remove an incompetent or criminal president. 
+The Estrada case has also demonstrated that an impeachment is not without 
+political risks.  It is a lengthy process, subject to the political maneuverings in 
+both houses of the legislature.  From this it follows that even if there is over- 
+whelming evidence, there is no certainty that a malperforming president can 
+be removed from office. 
+If impeachment fails, the available constitutional means are exhausted.  In 
+such cases, only two choices remain: first, to accept that the incumbent will 
+continue in office, although the debts of gratitude incurred for the political 
+support, and the embarrassment associated with an impeachment trial, will 
+almost certainly limit him or her to a lame duck role for the rest of the term. 
+If, as in the Philippines, this coincides with a long presidential term of office 
+(six years), the costs resulting from a lack of adequate political leadership are 
+prohibitively high for a modernizing society in need of inspired leadership. 
+The unwillingness of major sections of society to bear such costs constitutes 
+the second choice: to overthrow the incumbent by resorting to extraconstitu- 
+tional means.  As this option will almost inevitably involve the armed forces, 
+it sets dangerous precedents.  It will strengthen the political influence of the 
+military, and may thus pave the way for a seizure of power in a future crisis. 
+Moreover, as illustrated by the congressional elections in May 2001, the Es- 
+trada ouster divided society deeply.  In fact, the Philippines case, and simi- 
+larly the impeachment of Indonesian President Abdurrahman Wahid a few 
+months later, seemed to confirm Juan J. Linz’ s warning that in a presidential 
+system22 a government crisis, almost by definition, becomes a regime cri- 
+sis.2 3
+22. It is certainly debatable to classify the evolving post-Suharto Indonesian system as presi- 
+dential.  While the government system devised by the 1945 Constitution may be considered 
+presidential, the de facto strengthening of parliament in the Reform Era has created a hybrid 
+system somewhere between presidentialism and parliamentarianism.  Yet, the August 2002 con- 
+stitutional changes have definitely reemphasized the presidential features. 
+23. See Linz, “ The Perils of Presidentialism,”  p. 55.
+
+===== PDF PAGE 8 =====
+468 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+While the fixed term of office is indeed the Achilles’  heel of presidential 
+systems, other arguments mustered against Philippine presidentialism are less 
+cogent.  One of them concerns the great concentration of executive power in 
+a single person, the president.  His or her elevated political role is usually 
+attributed to the executive control over the budgetary process, which vests the 
+president with superior patronage power.  Presidential control over the pork 
+barrel is related to the “ turncoatism”  phenomenon, a local term for change of 
+party affiliation after elections and bandwagoning on the party of the presi- 
+dent.  Joel Rocamora, a noted Filipino political scientist, therefore concludes 
+that “ Filipino presidents are more powerful than even the American presi- 
+dent.”24
+Yet, leaving aside the debate on the relative strength of American presi- 
+dents,2 5 presidential power depends very much on the office holder’ s person- 
+ality and leadership style.  Ironically, many who are complaining vocally 
+about a seemingly all-powerful presidency had previously criticized President 
+Aquino for failing to utilize her almost-dictatorial powers under the Freedom 
+Constitution to push through urgent socioeconomic reforms.  Her successor 
+Ramos, while exerting strong leadership, is known to have closely consulted, 
+and in the process, shared powers with his Cabinet.  Estrada’ s personalistic, 
+and in the end, highly erratic style of government is thus by no means the rule 
+when it comes to presidential behavior in the post-Marcos era. 
+Institutional barriers also place restrictions on presidential power.  Far 
+from being free to select the Cabinet members, the president must at least 
+take into consideration the regional, linguistic, ethnic, and religious divisions 
+of the country.  Philippine cabinets thus habitually include representatives 
+from Luzon, the Visayas, and Mindanao as well as from the major religious 
+communities, i.e., apart from the Catholic majority, also Protestants and Mus- 
+lims.  Even more importantly, appointments to the Cabinet must be ratified 
+by a powerful bicameral Congressional Commission on Appointments.  This 
+check is however a double-edged sword, because the Commission has a re- 
+cord of subjecting reform-minded nominees to a grueling examination.  The 
+eventual rejection of two of President Aquino’ s nominees for secretary of 
+agrarian reform, Florencio Abad and Miriam Defensor-Santiago, are cases in 
+point.2 6
+24. Rocamora, Constitutional Amendment Debate , 1997, p. 14. 
+25. See Fred W. Riggs, “ Presidentialism: A Problematic Constitutional System,”  in Conquer-
+ing Politico– Administrative Frontiers.  Essay in Honor of Raul P. de Guzman , ed. Ledivina V. 
+Carino (Quezon City: University of the Philippines College of Public Administration and the 
+University of the Philippines Press, 1995), p. 545. 
+26. See Olivia C. Caoili, “ Assessment of the Performance of the Philippine Congress: 
+1988– 1992,”  in The Post-EDSA Vice Presidency, Congress & Judiciary: Self-Asessments and
+
+===== PDF PAGE 9 =====
+J ¨URGEN R ¨ULAND 469
+The vice presidential post elected on a split ticket may also help curb presi- 
+dential power, especially if coming from an opposition party.  Again, how- 
+ever, the vice presidential checks are often more of an obstructive nature. 
+Viewing the post as a springboard to the presidency, vice presidents have a 
+tendency to fall out with their presidents, as illustrated by the tense relation- 
+ship between Corazon Aquino and Salvador Laurel or, more recently, be- 
+tween Joseph Estrada and Gloria Macapagal-Arroyo. 
+Finally, as far as the budgetary argument is concerned, even in parliamen- 
+tary systems, the budget is prepared by the executive.  Although parliament 
+scrutinizes the draft budget and acts on it, owing to the fusion of government 
+and parliamentary majority, active budgetary oversight in parliamentary sys- 
+tems is restricted to the opposition and— as a result of time constraints and 
+lack of expertise— is hardly less superficial and random than in presidential 
+systems.2 7
+Compared to other presidential systems, in the Philippines, presidents can 
+hardly be considered overly powerful.  As a legacy of the Marcos regime, the 
+presidential position has been weakened considerably.  Compared to the 1935 
+Constitution, Philippine presidents are restricted to only one term and their 
+emergency powers are subjected to tight legislative supervision.  Moreover, 
+unlike some of their Latin American and Central Asian counterparts, they do 
+not have decree-making powers. 2 8
+While even a critic of presidentialism such as Arend Lijphart concedes that 
+the separation of powers between executive and legislature may endow presi- 
+dential democracies with a consensual element, 2 9 Philippine critics deplore 
+the fact that lawmaking may be paralyzed under such an institutional arrange- 
+ment.30  Their main concern in this respect is the presidential power to veto 
+congressional legislation.  As Emil Bolongaita points out, since 1935, such a 
+veto has never been overridden by a legislature. 3 1  Yet, despite vesting the 
+External Views and Assessments , eds. Jose V. Abueva and Emerlinda R. Roman (Quezon City: 
+University of the Philippines Press, 1998), p. 107. 
+27. See Hans-Peter Foth, Der Kongress der Philippinen: Ein Beitrag zum Parlamentarismus 
+in der Dritten Welt  [The Philippine Congress: A study on parliamentarianism in the third world] 
+(Hamburg: Mitteilungen des Instituts f¨ur Asienkunde, nos. 199, 1991), p. 88.  For India, see 
+Surya A. Prakash, What Ails Indian Parliament.  An Exhaustive Diagnosis  (New Delhi: Indus, 
+1995), p. 189. 
+28. Aurel Croissant, “ Delegative Demokratie und Pr¨asidentialismus in S ¨udkorea und auf den 
+Philippinen”  [Delegative democracy in South Korea and the Philippines], WeltTrends [World
+Trends], no. 29 (Winter 2000/2001), pp. 115– 42. 
+29. Lijphart, Democracies , p. 78.
+30. For an example among many similar statements in the public discourse, see the newspaper 
+advertisement signed by the presidents of the three local government leagues and the Coalition 
+for Constitutional Change Now in The Philippine Star , January 26, 2003, p. 17. 
+31. Emil P. Bolongaita, Jr., “ The Philippines in 1999: Balancing Restive Democracy and Re- 
+covering Economy,”  Asian Survey  40:1 (January/February 2000), p. 71.  However, more empiri-
+
+===== PDF PAGE 10 =====
+470 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+president with the power of a line-item veto (in budgetary matters), empirical 
+evidence suggests that after 1986, Philippine presidents have not used their 
+veto powers excessively. 32  Other scholars, like Rocamora, accordingly 
+downplay the veto, but deplore the inevitable horse-trading between president 
+and legislature that waters down most reformist initiatives. 33  Again, such 
+reasoning overlooks the fact that— as far as the dilution of reformist legisla- 
+tion is concerned— there is hardly any difference to parliamentary processes 
+of law-making. Multiparty coalition governments such as in Thailand before 
+1997, or currently in India, also necessitate intense bargaining and com- 
+promises on the basis of the smallest common denominator. 
+In the Philippines, gridlock in the legislative process is a structural prob- 
+lem primarily caused by the bicameral nature of Congress.  The effects of 
+gridlock, however, are frequently exaggerated.  At the bottom of the problem 
+lies the symmetrical nature of powers of the House and the Senate.  This 
+results in a duplication of legislation, since a bill must pass both houses. 
+Complicating the process is the tendency of both houses frequently to file 
+their own bills on the same policy matter. 34  The Senate, especially, which 
+owing to its nationwide constituency is considered a training ground for fu- 
+ture presidents, has a reputation of pursuing its own agenda— at times at vari- 
+ance with that of the House majority and with presidential policies. 35
+Different versions of a bill must then be reconciled in lengthy bargaining in 
+the Joint Conference Committee, considered by some as the “ Third House.”36
+Yet, few— albeit usually important— bills are submitted to bicameral confer- 
+ence committees, because the sponsors normally seek to avoid this. In order 
+to find compromises for controversial issues, they tend to consult informally 
+cal research is needed for ascertaining as to what extent such sweeping assessments can be 
+upheld.  Salonga, for instance, reports that at least in one case, the case of a Joint Legislative- 
+Executive Council on the Foreign Debt Problem, the Senate has rejected the presidential veto of 
+a Senate resolution.  Jovito R.  Salonga, “ The Senate That Said No: A Four– Year Record of the 
+First Post– EDSA Senate (July 27, 1987, to December 31, 1991),”  in Jose V. Abueva and Emer- 
+linda R. Roman, eds., The Post– EDSA Vice Presidency, Congress & Judiciary: Self-Assessments 
+and External Views and Assessments , p. 64.
+32. Based on data provided by the House of Representatives, the number of vetoes was 3.7% 
+in the 8th Congress (1987– 92), 7.4% in the 9th Congress (1992– 95), 3.1% in the 10th Congress 
+(1995– 98), and 4.6% in the 11th Congress (1998– 2001). 
+33. Rocamora, Constitutional Amendment Debate, 1997, p. 17. 
+34. Done except for appropriation, revenue, or tariff bills, bills authorizing public debt, bills 
+of local application, and private bills, which shall originate exclusively in the House of Repre- 
+sentatives.  See The Constitution of the Republic of the Philippines, 1987, Section 24. 
+35. Armando Doronila, “ The Senate Is a Monster, Ungovernable, Conservative, Parochial,”
+The Post– EDSA Vice Presidency, Congress & Judiciary: Self-Assessments and External Views 
+and Assessments , p. 128.
+36. David J. Vogler, The Third House: Conference Committees in the United States Congress 
+(Evanston, Ill.: Northwestern University Press, 1971).
+
+===== PDF PAGE 11 =====
+J ¨URGEN R ¨ULAND 471
+with the members of the committee responsible for the proposed legislation 
+in the other House already at an early stage of the legislative process. 37
+If gridlock is taken as an argument to support a shift toward a parliamen- 
+tary system of government, it should not be overlooked that bicameral parlia- 
+mentary systems may also be prone to paralysis.  A good example is 
+Germany, where in recent years the second chamber, the Bundesrat, has
+blocked labor and tax reforms.  Gridlock can be mitigated, if not entirely 
+eliminated, through skillful coordination between the executive and the two 
+legislative chambers.  Gridlock problems notably haunted the Aquino presi- 
+dency due to the fact that the president sought to stay above politics, and 
+rarely involved herself in legislative matters. 3 8  The creation of a Presidential 
+Legislative Liaison Office (PLLO), and shortly thereafter a Legislative Liai- 
+son System (LLS), failed to engage the political key players and thus failed to 
+solve the problem. 3 9  More successful was the Legislative-Executiv e Devel- 
+opment Advisory Committee (LEDAC) established by President Ramos in 
+December 1992.  LEDAC was composed of key members of the executive 
+plus the House speaker and Senate president, and the minority leaders of both 
+houses, as well as prominent party stalwarts.  Run masterfully by Ramos’ s 
+close associate, House Speaker Jos´e de Venecia, LEDAC served as a forum 
+for exchange of information on important legislation and a venue to work out 
+compromise versions of major bills so that they would pass Congress.  Under 
+Estrada, LEDAC was only rarely activated, but Arroyo, again with de 
+Venecia as House speaker, revived the mechanism, which, mainly due to her 
+weakening leadership, seems less effective than it was under Ramos. 
+Another powerful argument aired against presidential systems is that they 
+are more prone to collapse than parliamentary systems.  According to this 
+viewpoint, a nonsupportive legislature tempts presidents to resort to dubious 
+or even illegitimate actions in the pursuance of their agenda.  This stance 
+appears to support the conclusion that there is a built-in authoritarian ten- 
+dency in presidentialism.  The resultant political polarization and the frequent 
+blockades in the legislative process may provoke coups, and eventually, the 
+overthrow of the democratic order.  Marcos’ s declaration of martial law in 
+1972 is frequently cited as an example for such a scenario. 
+Yet, the empirical evidence for the presumed instability of presidential sys- 
+tems is ambiguous.  As pointed out by Nohlen and Thibaut, much depends on 
+37. Interview, House of Representatives, Manila, February 3, 2003. 
+38. Jovito R. Salonga, “ The Senate That Said No,”  p. 64. 
+39. Romulo B. Lamauig, “ Executive– Legislative Relations,”  in The Ramos Presidency and 
+Administration: Record and Legacy (1992– 1998), eds. Jose V. Abueva/Ma. Concepcion P.  Al- 
+filer/Ma. Piva Z.  Domingo/Eleanor E. Nicolas (Quezon City: University of the Philippines 
+Press, 1998), p. 60.
+
+===== PDF PAGE 12 =====
+472 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+the timing of the analysis. 4 0  If Stepan’ s and Skach’ s 1993 study, on which 
+the instability argument is based, had appeared 10 years later, a different 
+picture with more stable presidential systems would emerge. 41  The case for 
+the stability of parliamentary systems is also weakened by the fact that many 
+of the stable parliamentary democracies are found in Western Europe or in 
+small island states.  A closer look at the developing world and Southeast Asia 
+in particular hardly supports the argument of the greater stability of parlia- 
+mentary systems.  The region’ s parliamentary systems have a record of fre- 
+quent collapse, as demonstrated by the cases of Indonesia (1957); Burma 
+(1958, 1962); Thailand (1947, 1971, 1976, 1992); Malaysia (1969); and 
+Cambodia (1997).  In the end, the argument of unstable presidential democra- 
+cies mainly rests on Latin American evidence.  One may follow Mainwaring 
+and Shugart when they argue that the unfavorable conditions for democracy 
+that caused the collapse of presidential democracies in Latin America may 
+have caused the breakdown of parliamentary democracies there too. 4 2
+Philippine presidentialism is also held responsible for its inability to create 
+a strong party system. Jungug Choi, for instance, sees a causation between 
+presidentialism and a weak party system when he argues that the fluid multi- 
+party system that emerged after 1986 is linked to the curb on a second presi- 
+dential term enacted in the 1987 Constitution. 43  Choi’ s analysis, however, 
+overlooks the fact that the roots of the multiparty system date back to the 
+Marcos years.  In order to create a parliamentary facade for his authoritarian 
+rule, Marcos needed a fragmented party system that would provide him with, 
+on the one hand, an overwhelming parliamentary majority and also, on the 
+other hand, a token opposition.  For this purpose Marcos allowed the forma- 
+tion of parties that were accredited only in certain regions of the country: 
+Lakas ng Bayan (Laban) (Metro Manila); Bicol Saro (Region V); Pusyon 
+Bisaya (Region VII); the Mindanao Alliance (Regions X, XI, and XII); and 
+the Concerned Citizens’  Aggrupation (CCA) (Region IX) were examples of 
+such regional parties fielding candidates in the 1980 local and the 1984 par- 
+liamentary elections in their respective regions.  Moreover, many studies of 
+political transition have shown that owing to their one-issue nature— for ex- 
+40. Dieter Nohlen, “ Lateinamerika zwischen Pr¨asidentialismus und Parlamentarismus”  [Latin 
+America between presidentialism and parliamentarianism], in Lateinamerika Jahrbuch 1992 
+[Latin America yearbook], ed. Albrecht von Gleich (Frankfurt am Main: Vervuert, 1992), pp. 
+86– 99, and Bernhard Thibaut, Pr¨asidentialismus und Demokratie in Lateinamerika  [Presiden- 
+tialism and Democracy in Latin America] (Opladen, Germany: Leske und Budrich, 1996). 
+41. Alfred Stepan and Cindy Skach, “ Constitutional Frameworks and Democratic Consolida- 
+tion:  Parliamentarianism versus Presidentialism,”  World Politics  46:3 (October 1993), pp. 1– 22. 
+42. Mainwaring and Shugart, Presidentialism and Democracy , p. 20.
+43. Jungug Choi, “ Philippine Democracies Old and New:  Elections, Term Limits, and Party 
+Systems,” Asian Survey  41:3 (May/June 2001), pp. 488– 501.
+
+===== PDF PAGE 13 =====
+J ¨URGEN R ¨ULAND 473
+ample, the overthrow of an authoritarian regime— anti-regime movements 
+tend to collapse, and parties split into factions, after regime change. 
+A more frequent explanation for the assumed correlation between pre- 
+sidentialism and a weak party system is the reasoning that in presidential 
+systems the president cannot be voted out of office by the legislature. From 
+this is deduced that there is no incentive for the emergence of cohesive politi- 
+cal parties, as chief executives may survive politically even if they lack par- 
+liamentary support. 4 4  Yet, the assumed causal relationship between presi- 
+dentialism and weak party systems does not rest on strong empirical evi- 
+dence.  More recent research on Latin America, for instance, has demon- 
+strated that presidentialism in Chile, Costa Rica, and Uruguay has not been 
+an obstacle to the evolution of strong party systems. 45  The parliamentary 
+systems of Thailand and India, vice versa, have failed to create strong parties. 
+There is much plausibility in the argument that the form of government is not 
+even a necessary, much less a sufficient, condition for the formation of a 
+strong party system.  Other factors shaping party systems are the electoral 
+system and, perhaps even more important, the way societal cleavages are 
+translated into an institutionalized arena. 
+Societal cleavages definitely exist in the Philippines. However, they have 
+not found institutional expression, thus preserving the elitist, one-dimen- 
+sional, and nonprogrammatic party system.  There are at least three factors 
+explaining this. First, in the colonial era, societal conflicts were subordinated 
+to the overriding goal of national independence.  These aspirations were cap- 
+tured by the Nacionalista Party that dominated pre-independence Filipino 
+politics as an umbrella party. 46 Parties targeting social injustice, such as the 
+Socialist Party, the Sakdalista Party, and the Philippine Communist Party 
+(PKP), were outlawed. 47  Second, after independence, Cold War anticom- 
+munism permitted the regime to squelch lower-class representation.  In the 
+absence of legalized labor and peasant parties, class conflict has been rele- 
+gated to the extraparliamentary sphere, illustrated by the Hukbalahap Rebel- 
+44. Arend Lijphart, “ Presidentialism and Majoritarian Democracy: Theoretical Observations,”
+in The Failure of Presidential Democracy: Comparative Perspectives , eds. Juan J. Linz and 
+Arturo Valenzuela (Baltimore: Johns Hopkins University Press, 1994), p. 98. 
+45. Ingrid Wehr, “ Lipset und Rokkan ‘ a la latina’ : Einige ¨Uberlegungen anhand des chilenis- 
+chen Parteiensystems”  [Lipset and Rokkan ‘ a la latina’ : Some reflections on the Chilean party 
+system], in Ulrich Eith and Gerd Mielke, eds., Gesellschaftliche Konflikte und Parteiensysteme 
+[Social conflicts and party systems] (Opladen, Germany: Westdeutscher Verlag, 2001), pp. 
+203–20.
+46. Carl C. Land ´e, Post– Marcos Politics: A Geographical and Statistical Analysis of the 1992 
+Presidential Election  (Singapore: Institute of Southeast Asian Studies, 1996), p. 119. 
+47. Luzviminda G. Tancangco, “ The Electoral System and Political Parties in the Philip- 
+pines,”  in Government and Politics of the Philippines, eds. Raul P. de Guzman and Mila A. 
+Reforma (New York: Oxford University Press 1988), p. 90.
+
+===== PDF PAGE 14 =====
+474 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+lion (1947– 55) and, after 1968, the revolutionary struggle of the Communist 
+Party of the Philippines (CPP) and its military arm, the New People’ s Army 
+(NPA).  And, third, there is— as in other Southeast Asian societies— the cul- 
+tural dimension of a distinct aversion to institutionalization.  The norms of 
+personalism, pragmatism, flexibility, and localism serve as major impedi- 
+ments to the institutional integration of societal interests in durable party or- 
+ganizations.  Yet, these cultural explanations are more ambiguous.  They can 
+be easily challenged on the grounds that weakly institutionalized and per- 
+sonalistic political parties, far from being exceptional for the Philippines, are 
+a phenomenon of many developing countries, and thus reflect a more general 
+feature of late modernization. 
+Finally, Philippine critics also deplore the populist nature of presidential 
+democracies.  Electoral contests— especially for the highest office— are per- 
+sonal plebiscites.  Again, such an assessment exaggerates the Estrada experi- 
+ence, with his contradictory and hollow “ pro-poor, pro-market”  campaign 
+slogan.  Moreover, the fact that show business and media personalities such 
+as Estrada himself, Freddy Webb, Robert Jaworski, and Noli de Castro have 
+been elected to the Senate is by no means a specific trait of a presidential 
+system.  The parliamentary systems of Thailand and India have also seen the 
+rise of such personalities in politics.  The electoral campaign of Thai Prime 
+Minister Thaksin Shinawatra, with his promise to distribute one million baht 
+to every village, his 30-baht medicare scheme, and his debt moratorium for 
+farmers, is definitely at par with the Estrada campaign— though with the dif- 
+ference that Thaksin soon moved to deliver on his campaign promises.  In 
+Europe, the phenomena of J¨org Haider in Austria, Silvio Berlusconi in Italy, 
+and the late Pim Fortuyn in the Netherlands likewise prove that parliamentary 
+systems are in no way immune to populism.  Populism is less related to the 
+political system than to profound changes in the media world and to novel 
+campaign strategies in the era of mass democracy. 
+Virtues of Parliamentarianism? 
+While the preceding paragraph has shown that the deficiencies of Philippine 
+presidentialism may be less serious than claimed by its detractors, the follow- 
+ing section puts some of the frequently cited virtues of parliamentarianism 
+into proper perspective.  One of the most powerful arguments for parliamen- 
+tary systems is their seemingly greater flexibility, which is attributed to the 
+fact that a nonperforming prime minister can easily be dislodged by a no- 
+confidence vote.  Yet, a closer look at reality suggests that this argument is 
+more persuasive in theory than in practice.  Usually a weak governmental 
+performance is ingrained more deeply in a country’ s political culture, rather 
+than being merely a matter of political leadership.  Replacing the chief execu- 
+tive is thus tantamount to curing the symptoms.  Moreover, removing a prime
+
+===== PDF PAGE 15 =====
+J ¨URGEN R ¨ULAND 475
+minister from office is sometimes easier said than done.  As a consequence, 
+stalemated parliamentary systems have in East and Southeast Asia more than 
+once provoked the military to intervene.  Thailand, where the military took 
+over weak parliamentary democracies in 1947, 1971, 1976, and 1991, is a 
+particularly illustrative case.  But Burma (1958, 1962); Indonesia (1957); 
+Cambodia (1997); and South Korea (1961) may also be cited as examples. 
+While the admirers of parliamentarianism praise the no-confidence motion 
+as a powerful institutional incentive for governments to perform well, the 
+disciplining effects of this lever depend strongly on responsible use.  Unfor- 
+tunately, however, as the Thai case suggests, a no-confidence vote that is not 
+constructive, is open to abuse.  In Thailand, prior to the 1997 Constitution, 
+the no-confidence vote was persistently used against individual ministers and 
+the chief executive as a means to erode the inherently weak cohesion of 
+multi-party coalitions.  In the mercantile Thai political system, which shares 
+with the Philippine presidential system endemic vote buying, opposition par- 
+ties have a supreme interest in toppling the government soon as a means of 
+opening avenues for entering the ruling coalition.  Only in government will 
+they be able to recoup their campaign investments.  Opposition parties have 
+been frequently joined by disgruntled elements of the government coalition 
+who have been bypassed in the distribution of the electoral spoils.  The con- 
+sequence of such behavior has been a notoriously unstable government, evi- 
+denced by the fact that prior to 1997, Thai cabinets were reshuffled every few 
+months.
+A second major argument in favor of a parliamentary system frequently 
+bruited in the Philippine debate is the expectation that it would generate a 
+strong party system.  As parliamentary governments can easily be brought 
+down through a vote of no confidence, it is argued, party discipline is needed 
+to stay in power.  Conversely, with his right to dissolve parliament, the prime 
+minister also wields a powerful stick to keep the party in line.  Again, empiri- 
+cal evidence suggests that there is no iron law that parliamentary government 
+produces strong party systems.  The failed Southeast Asian parliamentary 
+systems mentioned earlier have been marked by highly personalistic, faction- 
+alized, and weak, though not necessarily always nonprogrammatic, party sys- 
+tems.  In all these cases, political parties have been personality-based power 
+centers, run by political entrepreneurs who view them primarily as a vehicle 
+to get access to government positions and state resources.  Parliamentarians 
+switch “ identical parties”4 8 at will for opportunistic reasons— in the case of 
+Thailand, many lawmakers did so more than four times during their political 
+48. Carl H. Land´e, Leaders, Factions and Parties: The Structure of the Philippines  (New
+Haven: Yale University, Southeast Asia Studies Monograph Series, no. 6, Southeast Asia Stud- 
+ies, 1965).
+
+===== PDF PAGE 16 =====
+476 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+career— before the 1997 Constitution made defections much more difficult. 
+Moreover, there is no reason why such a device discouraging legislators from 
+party switching may not be introduced into a presidential system as well. 
+One may therefore share Sartori’ s reservations about the learning effects to- 
+ward disciplined parties emanating from a parliamentary system. 4 9
+Moreover, in parliamentary systems, political parties do not necessarily 
+represent major societal cleavages.  The capital-labor cleavage, creating deep 
+divisions in developing countries, is rarely reflected in the party system. 
+Leftist parties or parties representing labor or peasant interests are virtually 
+absent in Thailand, where they have been persistently suppressed in the wake 
+of a staunchly anticommunist national security doctrine and efforts to create a 
+favorable investment climate.  This, of course, does not mean that lower-class 
+interests are entirely excluded from the political process.  They are taken up 
+by organizations of the civil society such as NGOs, labor unions, and peasant 
+associations, but, pushed to the margins of political institutions, many repre- 
+sentatives of these organizations and movements have adopted a rather criti- 
+cal view of all forms of representative democracy and are more in favor of 
+plebiscitary forms of democracy. 
+Another argument in the Philippine debate, stated, for example, by Pablo 
+Tangco, maintains that parliamentary governments are more successful in 
+promoting economic development.  To prove their point, adherents refer to 
+the high development levels in parliamentary democracies in Europe and 
+Asia.  As Asian examples, they cite Japan, Singapore, and Malaysia. 50  Yet,
+the last two cases, at least, may be better categorized as hybrid systems lo- 
+cated somewhere between authoritariansm and democracy. 5 1  In the case of 
+India, with its low per capita gross domestic product (GDP), the causal rela- 
+tionship between parliamentarianism and development, which in fact reverses 
+a dogma of modernization theory, is even more spurious. 
+Other arguments highlight the greater bureaucratic continuity of parlia- 
+mentary systems as an explanation for their allegedly better developmental 
+performance. 5 2  Indeed, it is undeniable that excessive patronage and corrup- 
+49. Sartori, Constitutional Engineering , p. 95.
+50. Pablo Tangco, “ Government and Politics,”  in Summary of Conference Proceedings: First 
+National Conference on Parliamentary Government  (Manila, December 4– 5, 1991), p. 17, and 
+interview by author, Manila, September 20, 2001. 
+51. Freedom House rates Malaysia and Singapore in the category of “ partly free,”  while 
+Steven Levitsky and Lucan A. Way categorize them as “ competitive”  and “ electoral authoritari- 
+anism.”  Steven Levitsky and Lucan A. Way: “ The Rise of Competitive Authoritarianism,” Jour-
+nal of Democracy  13:2 (April 2002), pp. 52, 54. 
+52. Cited in Marit Stinus-Remonde, “ Parliamentary System Can’ t Address Our Real 
+Problems,” Manila Times , February 11, 2003, p. 6; Jarius Bondoc, “ Blueprint to Federal Parlia- 
+mentary Form,” Philippine Star , January 23, 2003, p. 9; and Rocamora, Constitutional Amend- 
+ment, p. 18.
+
+===== PDF PAGE 17 =====
+J ¨URGEN R ¨ULAND 477
+tion are trademarks of Philippine presidentialism.  The frequent rotation of 
+personnel, attributed to the need of the president to dispense favors in ex- 
+change for political support, undermines administrative continuity, discour- 
+ages competent officialdom, and impedes institutional learning.  But parlia- 
+mentary systems too struggle with similar problems.  The short life cycle of 
+Thai governments prior to 1997, for instance, also facilitated bureaucratic 
+infighting and high turnover rates of high-ranking officials.  Even under the 
+reformist 1997 Constitution, vote buying is still rampant, and the electoral 
+process is controlled by provincial businessmen and occasionally even mafia- 
+type godfathers ( chao phor) who exert pervasive influence on all levels of the 
+bureaucracy. 5 3  In fact, in a recent article, Paul Hutchcroft has persuasively 
+demonstrated how Thailand’ s previously patrimonial administrative state in- 
+creasingly resembles the Philippine patrimonial oligarchic state. 5 4  This sup-
+ports the conclusion that in a political culture where clientelism is deeply 
+ingrained and where there is no major change in the political personnel, the 
+effects of institutional engineering are limited. 
+Likewise problematic are occasional proposals to introduce a semi-presi- 
+dential type of government modeled after the French Fifth Republic.  Al- 
+though Sartori seems to believe that semi-presidentialism is more flexible 
+than pure presidential and pure parliamentary systems, 5 5 many of the much- 
+maligned features of presidentialism remain in place.  It is even more difficult 
+to see how such a system, with a dual power center, would meet the litmus 
+test of cohabitation in the Philippines. 56
+An Agenda for Constitutional Reform 
+One can hardly escape the impression that the ongoing Philippine constitu- 
+tional debate is characterized by worst-case thinking on presidentialism and 
+best-case scenarios for parliamentarianism.  However, through the compara- 
+tive perspectives introduced in the preceding discussion, it should have be- 
+come clear that parliamentarianism is not a panacea for the weaknesses of the 
+Philippine political system.  Without clairvoyance, one may predict that 
+many of the country’ s well-known political problems would persist even 
+53. In opposition to the mainstream literature, Nelson downplays the influence of chao phor
+on electoral politics and political decision-making in general.  See Michael H. Nelson, “ Business 
+and Politics in Provincial Thailand: Aspects of Political Change,”  in Thailand’ s New Politics: 
+KPI Yearbook 2001 , ed.  Michael H. Nelson (Bangkok: King Prajadhipok’ s Institute & White 
+Lotus, 2002), pp. 469– 91. 
+54. Paul Hutchcroft, “ After the Fall: Prospects for Political and Institutional Reform in Post- 
+Crisis Thailand and the Philippines,”  in Government and Opposition  34:4 (1999), pp. 473– 97. 
+55. Sartori, Constitutional Engineering , p. 136.
+56. Wolfgang Merkel, Systemtransformation  [System transformation] (Opladen, Germany: 
+Leske & Budrich, 1999), p. 154.
+
+===== PDF PAGE 18 =====
+478 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+under a parliamentary system of government.  Moreover, so fundamental a 
+shift as replacing a presidential system with a parliamentary one would create 
+enormous transition problems.  Fred Riggs, despite his reservations on pres- 
+identialism, maintains that such a change has rarely succeeded, when at- 
+tempted.57  Contrary to the opinion of cha-cha (charter change) proponents 
+that “ constitutions are by no means sacred,”5 8 it is argued here that a perma- 
+nent, ongoing constitutional debate, or— even worse— frequent rewriting of 
+the constitution, should be avoided. As a constitution acquires legitimacy 
+with age, frequent amendments undermine the trust of the people in the high- 
+est law of the land.  Constitutional debates and amendments may then be seen 
+merely as part of a power struggle among elites with the sole purpose of 
+tailoring the rules of the political game for short-term political gain.  If, how- 
+ever, the rules of the game are not held legitimate, a democracy will hardly 
+develop the civic culture that democracy theory has identified as a major 
+prerequisite for democratic consolidation. 5 9
+The present Philippine Constitution is barely 16 years old, a relatively 
+short period compared to the constitutional life cycle of established democra- 
+cies.  Owing to its hasty drafting, it certainly has shortcomings that need to be 
+remedied.  Yet, one may question whether these flaws justify full-fledged 
+change of a political system that has gained at least a modicum of legitimacy 
+in the Philippines.  From this, it follows that rather than taking the risks of 
+fundamental constitutional changes, the 1987 Constitution should be given a 
+fair chance, and a pragmatic approach should be taken to address its flaws. 
+Formulated differently: the alternative to a full-scale change of the govern- 
+ment system is to maintain the existing presidential system while optimizing 
+it through gradual amendment wherever weaknesses are obvious and institu- 
+tional engineering promises tangible results.  Moreover, as will be shown be- 
+low, many of these deficiencies are procedural, and in some cases can be 
+eliminated even without amending the Constitution. 
+Although Lijphart seems to hold presidential democracies less inclusive 
+than consensual parliamentary systems, 6 0 it is argued here that even presiden- 
+tial democracies may develop elements of consensus democracy.  Constitu- 
+tional reforms should thus be guided by the objective of making the 
+Philippine polity more inclusive and consensual.  The subsequent sections of 
+this article provide suggestions on how this could be achieved. 
+Undoubtedly, one of the most serious shortcomings of the presidential sys- 
+tem is the fixed term of office of the president.  It is also the issue most 
+difficult to remedy without entirely changing the system of government.  The 
+57. Riggs, “ Presidentialism,”  p. 541. 
+58. Interview with anonymous scholar, Manila, September 17, 2001. 
+59. Merkel, Systemtransformation , pp. 164– 70. 
+60. Lijphart, “ Presidentialism and Majoritarian Democracy,”  pp. 91– 105.
+
+===== PDF PAGE 19 =====
+J ¨URGEN R ¨ULAND 479
+proposal made here to shorten the presidential term to four years and allow 
+for one re-election may thus not be fully satisfactory. 6 1  Yet, although the 
+proposal marks a return to the provisions of the 1935 Constitution, it has the 
+advantage that a nonperforming president can be voted out of office earlier, 
+while giving capable leaders more time to implement their political agenda 
+through a second term. 
+Such a change must go hand in hand with electoral reforms.  Without 
+them, nonperforming incumbents could more easily instrumentalize the gov- 
+ernment machinery illicitly to engineer their reelection.  In fact, electoral re- 
+form is one of the most urgent tasks in moving toward a consolidated 
+Philippine democracy.  The fraudulent and— as the 2001 elections showed—
+still violent Philippine electoral process is one of the greatest drains of legiti- 
+macy for Philippine democracy. 
+More importantly, electoral reforms do not require constitutional amend- 
+ments.  Most, such as scouring from voter lists all bogus voters and phantom 
+precincts, or computerization of the voting process, are technical in nature. 
+Unfortunately, so far, while the required laws (Republic Act 8189) are in 
+place, the political class has moved only slowly to implement them. 
+Lijphart has argued that especially in divided societies, majority voting 
+systems have exclusive effects.  Conversely, versions of proportional repre- 
+sentation stand for greater inclusiveness. 6 2  Framers of the 1987 Constitution 
+responded to such arguments by introducing a hybrid electoral system for the 
+House of Representatives.  Republic Act 7941 complements the majority vote 
+by a party-list system based on proportional representation that has been de- 
+signed to give disadvantaged groups such as workers, peasants, poor fisher- 
+men, disabled persons, and women a voice in Congress. 
+Nonetheless, since only up to 20% of Congress members are elected on the 
+basis of party lists, the electoral system preserves its majoritarian character. 
+Apart from the fact that it took Congress eight years to pass the Party-List 
+Law, the enacted version dilutes the intentions of the drafters of the Constitu- 
+tion.6 3  The law gives voters the option to choose one party from a list of 
+accredited parties.  For a parliamentary seat, a party must win at least 2% of 
+the total votes cast under the party-list system.  However, the fact that a party 
+can only win a maximum of three seats clearly indicates that the political 
+class sought to prevent the rise of a reformist party that could effectively 
+challenge vested interests.  A party representing lower-class interests that 
+61. Similarly, for Latin American presidential systems, see Mainwaring and Shugart, Pres-
+identialism and Democracy. 
+62. Lijphart, Democracies , p. 21.
+63. For a detailed legal critique, see Alberto C. Agra, The Philippine Party List System:  A 
+Legal Critique  (Manila: Ateneo de Manila University, College of Law, 1997).
+
+===== PDF PAGE 20 =====
+480 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+won 30 or more seats would certainly be a force to be reckoned with. 6 4  To
+make things worse, until a Supreme Court ruling 65 specified the criteria for 
+parties running under the party-list system, many bogus parties were regis- 
+tered by traditional politicians who would, if elected, even strengthen their 
+position in Congress.  Moreover, the three-seat ceiling exacerbates an already 
+fragmented landscape of parties.  In 1998, 122 parties were accredited for the 
+polls, and 154 in 2001.  The Commission on Elections (COMELEC)— usu- 
+ally aligned with the powers that be— did little to educate the voters about the 
+party list system. 6 6  As a result, out of a total of 34 million registered voters, 
+only 9.1 million voters, or 31.3%, cast their votes for party lists in the 1998 
+elections.67  In the end, only few parties passed the 2% hurdle, and only 14 of 
+the 52 seats were filled. 6 8
+A remedy for weakening the majoritarian character of the electoral system 
+could be the expansion of the party-list system to cover one-half of the House 
+seats.6 9 A built-in 5% threshold should provide a check on party fragmenta- 
+tion.  At the same time, the ceiling of three seats must fall.  Only then can 
+parties with a reformist agenda hope to enter Parliament and thereby better 
+represent existing societal cleavages in the country.  As majoritarian electoral 
+systems are essentially based on the idea of representing local interests, 7 0 the
+nationwide scope of the party list system could possibly also serve as a coun- 
+terweight to the localist effects of the majoritarian component of the Philip- 
+pine electoral system.  But even then, the road to a truly cohesive party 
+system will be long, as it is doubtful whether inequitable structural conditions 
+allow reformist parties to detach themselves from the country’ s prevailing 
+personalistic political culture, which in virtually all areas of societal organiza- 
+tion has produced fragmentation. 
+64. Foth, Der Kongress der Philippinen , p. 105; Emil P. Bolongaita, “ The Philippines: Con- 
+solidating Democracy in Difficult Times,”  Southeast Asian Affairs 1999 (Singapore: Institute of 
+Southeast Asian Studies, 1999), p. 244. 
+65. “ Bayan Muna versus Commission on Elections,”  Lawyers‘  Review  15:7 (July 31, 2001), 
+pp. 50–58.
+66. Interview by author, Manila, September 6, 2000. 
+67. However, voter turnout for party lists almost doubled in the 2001 elections.  Christof 
+Hartmann, Graham Hassell, Soliman M. Santos, “ Philippines,”  in Elections in Asia and the Pa- 
+cific— A Data Handbook, Vol.  II, South East Asia, East Asia and the South Pacific , eds. Dieter 
+Nohlen, Florian Grotz, and Christof Hartmann (New York: Oxford University Press, 2001), p. 
+215.
+68. Gabriella R. Montinola, “ The Philippines in 1998: Opportunity amid Crisis,”  Asian Sur-
+vey 39:1 (January/February 1999), p. 67. 
+69. For such a proposal, see also AGORA, p. 25, and Rocamora, Constitutional Amendment 
+Debate, p.  26.
+70. Aurel Croissant, “ Das s¨udkoreanische Wahlsystem und seine Reform”  [The Korean elec- 
+tion system and its reform], ASIEN [Asia], no. 78 (January 2001), p. 73.
+
+===== PDF PAGE 21 =====
+J ¨URGEN R ¨ULAND 481
+The frequently criticized gridlock problem could also be lessened by 
+changes of the House and Senate rules.  One such improvement is the provi- 
+sion of a fixed period for the deliberation of bills in the Senate and the Joint 
+Conference Committee, similar to the one in the House of Representatives. 
+In the House, a bill must pass the committee phase within 30 session days. 
+The fact that the Senate and the Joint Conference Committee lack such limi- 
+tations is a major reason why the Senate is usually behind the House in delib- 
+eration of bills, and why gridlock emerges. 7 1
+Another urgent task is declogging the legislative process.  In the Philip- 
+pines, bills are categorized into national and local bills.  Local bills constitute 
+the overwhelming majority, 85– 90% of the legislation introduced into the 
+House.  Each parliamentary period, thousands of them are filed by congress 
+members, irrespective of another several hundred resolutions.  Most of these 
+bills deal with peripheral and merely symbolic matters such as the naming or 
+renaming of municipalities, streets, schools, and the creation of new baran-
+gays.72  Such matters may be better decided at the local government level. 
+Their elimination from the legislative agenda would probably speed up more 
+important legislation and imbue legislators with a greater sense for national 
+priorities. 
+Declogging the legislative agenda could also be paralleled by streamlining 
+congressional organization.  The House, for instance, consists of 51 standing 
+committees and the Senate, 43.  Congress members belong, on average, to up 
+to six committees and senators, even more.  Multiple committee member- 
+ships and, more important, committee chairmanships, are a matter of prestige, 
+but they are also an avenue to influence decisions with an impact on the 
+representatives’  constituency in as many policy areas as possible.  However, 
+multi-membership in committees works against specialization and profes- 
+sionalization of the legislature, which needs capacity-building as policy mat- 
+ters grow in sophistication and complexity owing to the modernization 
+process.  Moreover, as committee meetings frequently overlap, legislators are 
+hardly able to participate in each with the same intensity.  Frequently, they 
+send their staff to participate, while the legislators themselves may only at- 
+tend for a short while before hurrying to the next meeting.  Such “ committee 
+hopping”  tends to produce sub-optimal legislative results. 73
+Perhaps the most important mechanism to mitigate the effects of gridlock 
+has been the Legislative-Executiv e Development Advisory Committee, intro- 
+71. Foth, Der Kongress der Philippinen , p. 59, and interviews in the House of Representa- 
+tives, September 20, 2001. 
+72. Josie H. de Leon, “ The Philippine Legislature after Marcos,”  in Renato Velasco and 
+Sylvano Mahiwo, eds., The Philippine Legislature Reader  (Quezon City: Great Books Publish- 
+ers, 1989), p. 97. 
+73. Ibid., p. 100
+
+===== PDF PAGE 22 =====
+482 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+duced during the Ramos presidency.  The mechanism certainly needs further 
+fine-tuning, but it may help foster a political culture of coordination, con- 
+certed action, and compromise. 
+If the gridlock problem is to be remedied, a change of the status of the 
+Senate must also be considered.  Since the failed impeachment trial of Es- 
+trada, the Philippine Senate has again come under attack.  The critical view of 
+the Senate by some segments of the public has been compounded by the 
+elections to Congress in 2001 of controversial personalities such as former 
+coup leader Gregorio Honasan and Estrada’ s Police Chief Panfilio Lacson. 
+However, despite the strong sentiment in the present Philippine debate over 
+unicameralism, the Senate should not be abolished.  A bicameral parliament 
+is, as argued by Lijphart, an important element of consensual democracy, 74
+provided that the membership is not congruent with that of the first cham- 
+ber.75  This is, however, precisely the case in the Philippines.  The Senate 
+gives special representation neither to minorities or groups excluded from 
+governmental decision-making nor to the interests of the local government 
+units.  Although it is elected on a different basis than the Lower House, its 
+members come from the same social class as the members of Congress.  In 
+fact, many of them shuttle back and forth between the two Houses. 
+A reformed Senate should not have the same legislative powers as the 
+House of Representatives.  Instead of reduplicating the legislative process, 
+the Senate should be reduced to a supervisory function with a suspensive 
+veto.  Although such  asymmetrical bicameralism may weaken the consensus 
+element, this disadvantage is compensated for by the fact that a weaker Sen- 
+ate would reduce the gridlock problem.  Also, ethnic, religious, and linguistic 
+diversity in the Philippines is modest, compared to that in other Asian coun- 
+tries such as Indonesia or India.  If the Senate is to be popularly elected, the 
+national constituency should be replaced by regional constituencies.  In the 
+more recent past, Luzon has been clearly overrepresented, while the Visayas 
+and Mindanao were underrepresented. 76  If direct elections to the Senate 
+were to be abolished, it could be composed of representatives of local gov- 
+ernments.  While this would add another element of representation, the inclu- 
+siveness of such a move would only be modest, since local governments are 
+controlled by the same oligarchies that also control national politics. 
+74. On the functions of second chambers, see also Gisela Riescher, Sabine Ruß , and Chris- 
+toph Haas, eds., Zweite Kammern [Second chambers] (M ¨unchen and Wien: R. Oldenbourg 
+Verlag, 2000). 
+75. Lijphart, Democracies , p. 92.
+76. Eleven of the 13 senators elected in May 2001 come from Luzon, two from the Visayas, 
+and none from Mindanao.  See Willibold Frehner, “ Philippinen: Wahlen in turbulenter Zeit”
+[The Philippines: Elections in troubled times], in KAS Auslandsinformationen  (Konrad Adenauer 
+Foundation Information on Foreign Affairs], no. 7 (2001), p. 54.
+
+===== PDF PAGE 23 =====
+J ¨URGEN R ¨ULAND 483
+An additional important issue in the present debate is the transformation of 
+the Philippine unitary state into a federal system.  It is believed that such a 
+move would have a cushioning effect on the Muslim rebellion in the South. 7 7
+It would provide the Moro population with the degree of political and cultural 
+autonomy they seek.  Attractive as such a constitutional amendment sounds, 
+the difficulties should be carefully considered.  The first tricky issue concerns 
+the number of states in a federation.  Current proposals run from four to 11 
+states, including Metro Manila as the federal administrative center.  Even 
+more difficult is the demarcation of the new units.  If federalism is to be 
+accepted by the population, and the resulting states are not to be  artificial 
+entities, units must be created that rest on a modicum of regional identities. 
+The most difficult problems of demarcation will occur in the South, where, 
+owing to Christian inmigration, Muslims and Christians live interspersed in 
+many parts of Mindanao, and Muslims have a majority in only a few prov- 
+inces.  Similarly complicated is the issue of resources.  What sort of revenues 
+will be allocated to the new states and how does this affect the resource base 
+of both the central government and the local governments?  And what will be 
+the fate of ongoing decentralization under the Local Government Code of 
+1991?  It is not possible here to discuss the consequences of federalization in 
+greater detail.  It is quite clear, however, that implementation entails risks that 
+should be approached with care. 
+A final point in the Philippine debate is the way the constitutional amend- 
+ments are enacted.  The Constitution provides three avenues toward this ob- 
+jective: through Congress convening into a constituent assembly, through a 
+constitutional convention, or directly through a people’ s initiative.  In all 
+cases, amendments must be ratified through a plebiscite. 7 8
+Many voices in the present discourse tend to opt for a full-fledged constitu- 
+tional convention.  They argue that none of the Philippine constitutions has so 
+far been drafted in an impeccably democratic way. 7 9  The Malolos Constitu- 
+tion was a revolutionary constitution; the Commonwealth Constitution of 
+1935, a colonial constitution; the 1973 Constitution was devised under the 
+auspices of martial law; and the 1987 Constitution was drafted by a group of 
+arbitrarily appointed persons.  Therefore, a nonpartisan constitutional con- 
+vention of freely elected delegates should draft a new constitution that would 
+77. Interview with Senator Aquilino Pimentel, Jr., September 18, 2001, Manila. 
+78. For details, see Article XVII, 1987 Constitution.  In 1997, the Supreme Court ruled that 
+the enabling law for a people’ s initiative was inadequate.  Magno, “ Between Populism and Re- 
+form,”  p. 209. 
+79. Rocamora, Constitutional Amendment Debate, 1997, pp. 14, 27, and author’ s interview 
+with Philconsa president, Camilo L. Sabio, September 19, 2001, in Manila.
+
+===== PDF PAGE 24 =====
+484 ASIAN SURVEY, VOL. XLIII, NO. 3, MAY/JUNE 2003 
+have to be ratified by the people through a referendum. 8 0  Against this rea- 
+soning, it could be argued that even proven constitutions have not gone the 
+purist democratic way.  The German Basic Law (Grundgesetz)  is a striking 
+example. It was drafted by a Parliamentary Council (Parlamentarischer Rat) 
+composed of representatives of the (elected) state legislatures and the draft 
+was not submitted to a plebiscite.  Drafting a constitution is one thing, inter- 
+preting and implementing it quite another.  Furthermore, if it is the declared 
+objective for drafting a new constitution to prevent vested interests from con- 
+trolling Congress, there is no certainty that persons elected to a constitutional 
+convention would be more democratic than the elected legislators in both 
+Houses.  The Philippine oligarchy has a track record of great ingenuity in 
+adapting to changing political circumstances, and would certainly manage to 
+get members of its clans— or proxies— elected to a constitutional convention. 
+Moreover, elected constitutional conventions have an ambiguous record in 
+Southeast Asia.  The Indonesian Konstituante  (1955– 59) and the Philippine 
+Constitutional Convention (1971– 73) dragged on inconclusively for years 
+with their deliberations and were, in the end, disbanded or hijacked by au- 
+thoritarian rulers.  The drafting process in an elected constitutional conven- 
+tion will most likely turn into a divisive process and will produce in the end, 
+if at all, a document based on the smallest common denominator that satisfies 
+nobody.  In order to circumvent these obstacles, Congress should first declare 
+itself a constituent assembly.  Then, it should appoint a constitutional drafting 
+committee composed of constitutional experts and a broad spectrum of socie- 
+tal representatives.  In order to prevent Congress from diluting the constitu- 
+tional reforms proposed by the drafting committee, Congress should get a 
+chance only to adopt or reject the entire draft.  In the light of strong pressures 
+by a vibrant civil society, Congress then would be less likely to reject the 
+draft.
+80. Camilo L. Sabio, Why a Movement for a Non-Partisan Constitutional Convention of 
+Freely Elected Delegated?  (mimeographed paper, 2001).

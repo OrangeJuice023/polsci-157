@@ -1,0 +1,1303 @@
+SOURCE: Pol Sci 157_Torres-Pilapil_Doc 6_Pilapil, Gene_Some Arguments for an Institutional Approach.PDF
+METHOD: ocr
+PAGES: 19
+
+===== PDF PAGE 1 =====
+Philippine Political Science Journal 27 (50) 2006
+Ofreneo, R. E., Professor, School of Labor and Industrial Relations, University of the Philippines,
+Some Arguments for an Institutional Approach
+conducted on January 16, 2001, Quezon City, Philippines.
+to Philippine Politics
+Villanueva, E., Secretary General, United Filipinos in Hong Kong, conducted on December
+19, 2000, Hong Kong
+Gene Lacza Pilapil*
+Abstract: This paper presents some arguments for the usefulness of
+developing an institutional approach to the study of Philippine politics. It
+argues that such an approach could address some of the blind sides of the
+more dominant society-based approaches currently used in making sense
+of the dynamics of Philippine politics. In addressing these blind sides, the
+paper argues that the institutional approach fulfills two seemingly
+contradictory requirements that any new conceptual approach to Philippine
+politics must fulfill. First of all, it is holistic enough to grasp most of the
+crucial forces shaping the dynamics of Philippine state and society. At the
+same time, it is detailed enough to allow for a finer understanding of specific
+political-institutional issues.
+CRISLINEG.TORRES
+Keywords: conceptual approaches, democratic institutions, institutional
+AssistantProfessor
+approach, institutional design, political institutions, society-centered
+DepartmentofPolitical Science
+approaches, Philippine state
+Universityof thePhilippines
+This paper is composed of six sections and its structure is as follows:
+Section 1 provides a working definition of institutions, the institutional
+approach, and pofitical institutions to be employed by the paper. Section 2
+discusses the importance of political institutions as incentives and constraints
+for state and social actors and as key mediating mechanisms between the
+state and social actors. Section 3 contrasts the understanding of the
+Philippine state by the currently dominant society-based approaches with
+that of the proposed institutional approach. Section 4 explains the strengths
+of an institutional approach in helping fulfitl the seemingly contradictory
+qualities of being both holistic and detailed that are strongly needed by an
+* The author acknowledges the comments of an anonymous reviewer but assumes full
+responsibility for the final manuscript.
+88
+Philippine Political Science Journal 27 (50) 2006
+89
+
+===== PDF PAGE 2 =====
+brief discussion on some recent institutional approach-inspired works done
+on Philippine political institutions. Section 6 concludes the paper.
+For both new institutional economics and the new institutionalism in
+political science, the most basic formal rules are found in the constitution
+Institutions, Institutional Approach, and Political Institutions
+(North 1997), especially if it is a democracy (Elster et al. 1998; Linz and
+Stepan 1996; Mainwaring and Shugart 1997; Przeworski 1991; Stephan
+Institutions
+basic rules defining the nature of the state, the state's relationship among
+A barebone definition of institutions is to see them as the rules that
+other states, the relationship among different state organs, and the
+influence the strategies of state and social actors. This definition fulfills the
+relationship between the state and its citizens. Below the constitution are
+two essential elements that a definition of institutions must have: (l) rules
+the legislation passed, the policies enacted, and the legal system that seek
+and (2) the behavior (or strategies) they structure (Carey 2000: 735; Clague
+to regulate aspects of political, economic, or social life. Contracts entered
+1997: 17; Elster et al. 1998: 294; Goodin 1996:19-20; Graham and
+into by economic agents including the state and specific by-laws of social
+Naim 1998: 325-326 and 343-351; Lane and Ersson 2000: 22-37;
+organizations and economic firms are also considered as part of the formal
+Nelson et al. 1997: 5; North 1997: 13; 1994: 1-2; 1991: 97; World
+rules structuring social interaction.
+Bank 2002: 6, 1998: 4).
+For new institutional economics, the informal rules are constituted by
+Institutional Approach
+values and norms that either promote or constrain the formal rules. These
+informal rules are the deep-seated beliefs and expectations reflected in the
+However, what would count as rules would depend on what type of
+regularized pattern of doing particular life actions such as economic and
+institutional approach is being used. Here, it is useful to highlight the
+political activities. There is a high level of institutionalization of formal rules
+important differences between the institutional approach identified with the
+when the informal norms and values are already aligned with the formal
+economics discipline and with that of the political science discipline. ln the
+rules. f there is a significant gap or an outright conflict between the formal
+economics-inspired approach to institutions of "new institutional
+rules and the informal norms then, there is a low level of institutionalization
+economics,"1 the rules include both formal (the written rules) and informal
+of formal rules (European Bank for Reconstruction and Development 1 999;
+(the unwritten rules) (North 1997, 1994, 1991). On the other hand, in the
+Hodgson 1998; Nelson et al. 1997: 5; North 1997, 1994).
+political science-inspired institutional approach known either as "new
+institutionalism" (March and Olsen 1984) or the more generic term
+"institutional approach (or analysis)" the rules usualiy tend to be understood
+to draw attention to the role of political institutions as crucial incentive
+as limited to the formal rules (more particutarly, the formal political rules as.
+structures affecting the strategies of social actors and as key mediating
+embodied in political institutions) (Carey 2000; Haggard 1997; Haggard
+mechanisms between the state and social actors, the paper needs to adopt
+and Kaufman 1995; Haggard and McCubbins 2001; Liiphart 1992;
+a political science institutional approach and must jettison a new institutional
+Liphart and Weisman 1996; Linz 1994; Mainwaring and Shugart 1997;
+economics approach. The paper cannot employ a new institutional economics
+approach because of the equal importance shared by informal rules with
+Shugart and Carey 1992; Shugart and Haggard 2001; Stepan and Skach
+formal ones in this framework. Although this equal stress on both formal
+1 993).2 In the useful term of a leading political scientist, John Carey (2000:
+and informal rules suits new institutional economics since this approach
+735), these formal institutions in'political science are "parchment institutions"
+points to formal and informal economic and non-economic institutions to
+because they "are written down somewhere as laws, regulations,
+explain economic activity, especially transaction costs (Greif 1992, 1989;
+constitutions, treaties, and so forth."
+90
+Philippine Political Sclence Journal 27 (50) 2006
+Some Arguments for an Instltutional Approach to Phlllpplne Polltics/Pilapil
+91
+
+===== PDF PAGE 3 =====
+Hodgson 1998; North 94; North and Weingast 1989; Spiller and Tommasi
+or of culture in general (Elkins and Simeon 1979; Inglehart 1988; Laitin
+2000), the paper argues that if this equal stress is included in an institutional
+and Wildavsky 1988; Lane 1992)
+of conceptual focus may easily result.
+Thus, although sharing with the new institutional economics the definition
+of institutions as a set of rules, this paper would understand the term
+As would be argued more fully later in this paper, one of the achievements
+institutions as referring only to formal rules and the term institutional
+of the institutional approach (understood in its formal, political science sense)
+approach as referring to the political science-inspired one.
+is to challenge society-centered explanations of political life from a more
+Political institutions
+on the implications of the formal design4 of political institutions on social
+The main focus of this paper would be on political institutions (specifically
+processes, including the informal norms that social actors embody.
+democratic ones). A working definition that the paper offers for political
+institutions is that these institutions are concerned with the making,
+Following this line, the paper argues that the analytical purpose of the
+implementing, and adjudicating of policies binding for all members of a
+institutional approach in political science is to stress the effects of formal
+given polity (if democratic, then these political institutions would include the
+(especially political) rules on political, economic, and sociai life. While informal
+access for the contestation of these policies). Thus, this definition of political
+institutions incorporates the quality of stateness (binding decisions for all)
+institutional economics understands them) are important in explaining
+of government (law-making, law-implementing, and law-interpreting organs)
+political, economic, and social life (in the same way that economic processes,
+and of politics (the struggle on who would have the right to make or to
+classes, elites, social movements, global forces, etc. are important in
+influence binding policies).
+explaining political, economic, and social life), the informal rules simply
+cannot be accorded equal weight as accorded by the new institutionai
+These political institutions involve what is commonly understood in
+economics approach without the political science-inspired institutional
+political science as the whole ensemble of government from its three branches
+approach losing its own analytical purpose.
+to its administrative, coercive, and regulatory apparatuses. In the Philippines
+presidential democracy, they would point to the executive branch with all its
+Further, while the political science-inspired institutional approach would
+departments and line agencies, the Congress, the Supreme Court and the
+be interested in studying the formal rules' interplay with informal rules (in
+courts lower it, the local governments, the constitutional bodies, and other
+the same way that it would be interested in studying the formal rules' interplay
+government entities.
+with economic processes, class, elites, social movements, global forces,
+etc.), the informal rules cannot be accorded equal weight as accorded by
+Political institutions would also include mechanisms for the representation
+of interests and for the contestation of government policies. Some of them
+an institutional approach in political science tends to confine its use of
+may have a continuous organizational existence such as the party system
+institutions to formal rules (March and Olsen 1984; Remmer 1997) and
+and committee system in the legislature and consultative bodies within the
+usually relegates informal norms and values to the realm of political culture
+organizationa! expression such as parts of the electoral system and ad hoc
+liaison committees (O'Donnell 1994: 57).
+92
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+93
+Philippine Political Science Journal 27 (50) 2006
+
+===== PDF PAGE 4 =====
+losing in their calculation is very high (or there is no or litle chance of winning
+Importance of Political Institutions
+or winning anything), the actors would not play by the rules and would work
+to undermine them instead.
+Why focus on political institutions as a legitimate explanatory variabie
+of political life?s There are many answers to this question' but because of
+Regime-level distinctions between dictatorship and democracy
+space limitations, the paper can only discuss two answers that are the most
+dramatically illustrate the effects of time horizon on the actors' strategies. In
+important for its intentions: (l) political institutions as incentives and
+an authoritarian regime, the time horizon of actors is likely to be shortened
+since both the present and future costs of losing in political competition
+mediating mechanisms between the state and social actors.
+(usually not just losing an elective post but in terms of losing one's limb,
+liberty, or life) are very high. In this non-democratic situation, the rules would
+Political institutions as incentives and constraints for state and
+have to be changed (usually through liberalization/democratization) and/
+social actors
+or be undermined (polarization usually through extra or outright illegal
+means) if opposition actors have a chance of winning against the
+Embedded in the paper's definition of institutions as rules that influence
+authoritarian leaders.
+state and social actors in terms of their strategies is the important role of
+institutions as a set of incentives and constraints to these actors. When
+In a democracy, the time horizon of actors is usually lengthened because
+faced by a set of incentives and constraints, actors have a choice whether
+the costs of losing are lowered (Przeworski 1991:19). This is because if
+to comply or subvert the rules. Focusing on political institutions, different
+actors lose they do not have to go to jail, die, or wait for an indefinite period
+political institutions (l) induce different political strategies from the actors
+for the next elections. They usually still have another chance three, four, or
+and (2) produce different probability distributions of political outcomes for
+six years to try again under the same set of rules (e.g., in a presidential
+these strategies.7
+democracy, the term of the incumbent being fixed by law lengthens the time
+horizon of the opposition compared to a situation where the opposition is
+1. Different political strategies
+faced by a dictator who intends to stay for life). When rules are seen by
+actors as fair (i.e., they believe that even if they lose now, if they continue
+Political institutions affect the political strategies of actors by, among
+playing by the same rules they would in the future might have another or
+better chance of winning), they generally comply with the rules.8
+Differences in institutionai features of democracy also have their effects
+1.a. Different time horizons
+on the actors' time horizon (Spiller and Tommasi 2000). Such effects can
+be seen in the most basic constitutional difference among democracies
+One way of defining time horizon is to think of it as the actors' temporal
+which is their form of government. Here, the debate on the relative merits of
+political cost-benefit calculation (Przeworski 1991 :19). Time horizon may
+a parliamentary form of government over a presidential one includes the
+be seen as the ability of actors to factor in costs and benefits brought about
+form of government's different effects on the actors' time horizon.
+by following the rules from the vantage point of the future envisioned to be
+based on the same set of present rules. By implication, this would indicate
+One claimed superiority of parliamentary forms of government is that
+their willingness to play by the rules of the game: the longer the time horizon,
+they do not suffer from the problem of lame-duck presidents that has plagued
+the more willing they are to play by the rules of the game. If the net cost of
+94
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+95
+
+===== PDF PAGE 5 =====
+Limongi 2002; Lane and Ersson 2000: 117-142; Liphart 1992; Linz 1994;
+Przeworski et al. 1 996; Stepan and Skach 1993). For unlike the presidential
+1.b. Different patterns of representation and contestation
+forms where the presidents, because of the fixed tenure, cannot easily be
+removed even when they have lost their working relationship with the
+Political institutions also encourage different patterns of representation
+legislature, prime ministers in parliamentary forms of government have no
+and contestation. Again, regime-jevel differences starkly illustrate this
+fixed term and could only rule on the basis of the continued support of the
+arrangement. In a dictatorship, the pressure is usually for underground or
+legislature or the majority iegislative coalition backing the government. This
+extra-legal struggle and a polarization of issues. In a democracy, the pressure
+is said to exempt parliamentary governments from suffering the serious
+is usually for more open political, especially electoral, struggle and a catchall
+infirmity of presidential forms of government where executive-legislative
+approach to issues.
+stalemates have seriously affected the functioning, effectivity, -and in some
+cases the longevity, of democracy. This executive-legislative deadlock may
+Similar to their effects on the actors' time horizon, differences in
+be said to potentially shorten the time horizon of actors in presidential
+institutional features of democracy also have an important impact on the
+systems relative to those in parliamentary forms of government as the costs
+pattern of contestation and representation across a population of democratic
+of waiting for a change in leadership, especially in crisis situations, become
+regimes. One example to illustrate this is to discuss one of the central
+higher in presidential forms of government relative to parliamentary forms
+of government.
+and this is a democracy's electoral system. The level of political accountability,
+transparency, and governability; the kind of executive-legislative relations;
+At the other side of this institutional design debate on forms of
+the type of party system, internal party coherence, and discipline; and even
+government is to deny that parliamentary governments are inherently superior
+the inclusiveness of a political system are all intimately related with the type
+in lengthening the time horizon of actors (Haggard 1997; Haggard and
+of electoral system a particular democracy has (Carey 2000; Carey and
+Kaufman 1995; Mainwaring and Shugart 1997, 1993; Power and
+-181 u0ss13 pup 3up1 :2661 p660h :6661 ppia '661 p60s
+ujupw :/66l p6nys pup 6uupmuipw :966l upwsipm pup pydi!1 :90z
+Weaver and Rockman 1 993). For example, one argument frequently raised
+et al. 1999; Moreno et al. 2000; Nohlen 1996; Reynolds and Reilly 1997;
+Shugart 1995; Shugart and Carey 1992; Shugart and Wattenberg 2001;
+of parliamentary form of government may actually shorten the time horizon
+Shugart et al. 2005; Taagepera and Shugart 1993).
+of actors relative to the presidential form. In situations where the
+Electoral systems can basically be divided between majoritarian single-
+system, the institutional deadlock affecting the time horizon of actors is not
+member district (SMD) electoral systems and proportional representation
+at the level of e>ecutive-legislative relations found in presidentialism but at
+(PR) electoral systems (with various types of mixed-member electoral systems
+the more basic level of forming and maintaining a government. In such
+straddling the middle). SMD-based electoral systems tend to produce a virtual
+situations of government instability which have led to their own stories of
+two-party system, tend to offer more direct accountability between
+seriously affecting the functioning, effectivity, and longevity of parliamentary
+representative and constituents (because the single representative exclusively
+represents a clear territorialiy based constituency), tend to offer a clearer
+Power and Gasiorowski 1997) but also in Europe (although in an earlier
+line of choice (because the voter can directly choose the candidate), and
+era) (Shugart and Carey 1992: 38-43), the fixed term found in
+tend to offer more governability (because less parties are represented in the
+presidentialism may be seen as potentially stabilizing, if not lengthening, the
+legislature) than PR-based electoral systems.
+time horizon of actors.
+96
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+Philippine Political Science Journal 27 (50) 2006
+97
+
+===== PDF PAGE 6 =====
+PR-based electoral systems tend to move towards a more multiparty
+them purposive (e.g., strategies of specific actors for and against
+system (thus more inclusive of social cleavages), tend to more accurately
+constitutional revisions). In this context, the rules serve as the baseline from
+reflect voters' choice (seats to votes ratio; thus more representative), tend to
+which actors mobilize conjunctural and structural factors to exploit the rules
+be less zero-sum (because more parties win seats), and tend to develop
+more disciplined parties (especially if the party list is closed). The effects of
+strategies), a mobilization affecting but not guaranteeing the desired
+PR-based electoral systems would, in turn, further depend on their more
+outcome of constitutional change (Carey 2003; Elster 1997; Jones 1997;
+minute institutional features such as threshold level, electoral district size,
+Linz and Stepan 1996).
+representation magnitude, and whether the party list is closed or open.
+2. Different probability distributions of political outcomes
+state and social actors
+The second effect is the different probability distributions of political
+The second answer to the question on the importance of political
+outcomes that political institutions produce (Haggard and Kaufman 1995;
+institutions is that they serve as key mediating mechanisms within and among
+Przeworski 1991). In a dictatorship, electoral rules that are biased towards
+at least three types of intersecting arenas: state-society, state-economy, and
+the incumbent and the dismal state of civil liberties make it extremely hard
+state-external arenas.° As mechanisms for mediation, different political
+for the opposition to win the top government posts in an electoral contest.
+institutions have different absorbing or deflecting rates for social, economic,
+In a democracy, there is in the words of Przeworski an "organized
+and political demands (Geddes 1994: 8; Haggard and Kaufman 1992:
+uncertainty" in the sense that democratic rules of electoral competition allow
+27) and external shocks (Przeworski et al. 1995: 107). lnstitutional
+that incumbents may lose and the opposition may win. This difference
+mechanisms thus ensure that social demands and interests are not
+between predetermined and uncertain outcomes is so crucial in the
+automatically translated into policies (Haggard 1997: 122). Conversely,
+understanding of institutional regimes that from the minimalist, proceduralist,
+political institutions also mediate the effects of the state on society through,
+electoral, or Schumpeterian standpoint of democracy, the probability of the
+opposition winning in an electoral contest for top government posts is what
+state policies and reform programs (Haggard and Kaufman 1995, 1992;
+makes a polity a democracy (Diamond 1999; Haggard and Kaufman 1995
+1994; Huntington 1991; Linz and Stepan 1996; Przeworski 1991: 12-
+1 3).
+Institutional Blindness and Institutional Seeing:
+Conceptual Approaches to Philippine Politics
+Differences within democracies can also affect the probability
+distributions of political outcomes. The paper illustrates this by tackling the
+Institutional blindness and society-based conceptual approaches
+rules on changing the basic rules of the polity, i.e., constitutional change.
+Different democratic constitutions have different rules for constitutional
+change (Carey et al. 1997; Lutz 1994). Whether these rules can successfuily
+accurately, Maoist) semi-colonial, semi-feudal class-based approach, the
+combination of factors, some of them conjunctural (e.g., during a democratic
+newer Migdalian strong society-weak state approach, the more recent
+Weberian neopatrimonial state approach, and their various hybrids have
+hyperinflationary crisis), some of them structural (e.g., historical legacies of
+either significantly downplayed or altogether ignored the importance of the
+previous constitutional tinkering, either traumatic or positive), and some of
+design of the democratic political institutions in affecting the politics of the
+post-1986 democratic transition Philippines.
+98
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+99
+
+===== PDF PAGE 7 =====
+The varying effects of the state capacity-promoting and state capacity-
+In the Marxist semi-colonial, semi-feudal approach, state policies are
+demoting features and of the accountability-promoting and accountability-
+basically determined by the class configuration (with the ruling classes always
+demoting features of the political institutions of the post-EDSA Philippine
+in alliance with external imperialist forces). For this approach, institutional
+democratic state such as the rules delineating the nature of executive
+design is an entirely irrelevant factor in class permeation. What particular
+authority, party systems, electoral competition, civil-military relations, and
+type of political institutions the state has is not considered since what is
+political bodies on intra-state, state-society, and state-global relations remain
+important is the ciass nature of the state. To the extent that they are accorded
+either largely untouched or theorized in a terribly haphazard, helter-skelter
+a glance, these politica! institutions are seen as insignificant barriers that
+the dominant classes can easily jump across or tunnel under to pursue their
+own interests. Jose Ma. Sison considered (and still does) the nature of the
+The paper argues that the institutional blindness of these approaches
+Philippine state as determined by the semi-colonial and semi-feudal nature
+can largely be explained by a fundamental feature shared by these seemingly
+of the mode of production of Philippine society (Sison 1998, 1970).10 The
+disparate frameworks. While these conceptual approaches have important
+Philippine state is an instrument of the domestic ruling classes and is a
+differences among them, the one unifying thread that ties them together is
+puppet of its neo-colonial master, the US. It did not really matter if it was the
+that they are all variants of a society-based approach. The semi-colonial,
+"US-Marcos regime" (dictatorship) or the "US-Aquino regime" (democracy)
+semi-feudal class approach, Migdalian strong society-weak state approach,
+since the basic contradictions of the semi-colonial, semi-feudal mode of
+Weberian neopatrimonial approach, and different versions of hybrid
+production of Philippine society determined the overall direction of the class
+approaches are all society-based approaches because state policies are
+nature of the state.11
+explained by the configuration of social forces (whether of class, society,
+elites, interest groups, social movements, or any other society-based actors).
+In the Migdalian-inspired strong society-weak state approach, state
+Political institutions, if at all visible, are treated as epiphenomena by these
+policies are determined by the kind of social actors or the strong men
+(including elites and elite families or clans) society has (Migdal 1988).
+Because the overwhelming focus is on the alternative power bases of society
+upon by autonomous social actors. Political institutions are dismissed as far
+challenging state authority and autonomy, the Migdalian formulation glosses
+over the important differences between authoritarian and democratic regime
+studying the nature of these institutions is not considered worthy of sustained
+critical focus and analysis.
+types and the institutional variations within each regime type that mediate
+relations between state and social groups12  concerns central to an
+institutional analysis. In Alfred McCoy's application of this approach to
+Diagram 1. The State as the Configuration of Social Forces
+Philippine politics, the call is for a new historiography of the elite families to
+state
+state
+state
+state
+more accurately narrate Philippine political history and to move away from
+the misguided emphasis on Western-type political institutions such as political
+elites
+society
+class
+class; society, elites,
+interest groups, social
+movements, etc.
+In the Weberian neopatrimonial approach, state policies are determined
+Weberian
+Hybrid
+Migdalian
+Marxist
+by elite power over the state or extent of elite or oligarchic predation. While
+usually classified as a state-centered approach, it is possible to argue that it
+shares more similarities with the society-centered approach than to an
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+101
+100
+Philippine Political Science Journal 27 (50) 2006
+
+===== PDF PAGE 8 =====
+institution-based approach when considering the role of political institutions,
+especially in a democracy. Similar to a Migdalian approach, it has a strong
+Diagram 2. State as an Ensemble of Institutions
+bias in emphasizing continuities at the expense of discontinuities between
+state
+political features of the authoritarian and democratic regimes and pays far
+as an
+less attention to the mediating role of different types of democratic institutions
+ensemble of institutions
+than to its far richer categories on different types of oligarchic predation.
+(institutional design is a rmajor factor
+This emphasis on social actors rather than on political institutions can be
+in social permeation)
+seen in Paul Hutchcroft's argument when employing this approach to
+Philippine politics. Looking at the Philippine state as an actor (rather than
+as a field made up .of mediating political institutions), he recommends that
+class, elites, interest groups, social movements, or any other
+when the state is a dependent actor like the Philippine state, the
+social actors
+methodological starting point of any "serious" analysis of the state must
+begin with social interests acting upon it (Hutchcroft 1989: 424).
+To argue for an institutional approach is to argue that the very power of
+social forces is also a function of the institutionai mechanisms in which they
+in the hybrid approaches, state policies are by-products of any
+operate. The specific design of a country's form of government, electoral
+combination of a collage of classes, elites, interest groups, social movements
+system, party system, legislative structure, and judicial system has an intimate
+(a.k.a., civil society), external forces (a.k.a., globalization actors), masses,
+etc. While advancing the analysis of Philippine politics by expanding the
+There is no denying that state policies are influenced by social demands but
+actors involved, such approaches actually only enrich the society-based
+they are mediated by the kind of rules the state has. As argued earlier by the
+approach (which is nevertheless a considerable achievement) but represent
+paper, these rules influence the kind of political strategies mobilized by social
+little significant advance in terms of explaining the role of the specific design
+of political institutions in affecting the dynamics of Philippine politics (e.g.,
+permeation. In the context of the Philippines, it is clear that the rules allowed
+Alegre 1996; Clarke 1998; Kerkvliet 1995; Melegrito and Mendoza 1999;
+Rocamora 1995; Wui and Lopez 1997).
+elites/ruling classes are strong or is it also because the rules embedded in
+political institutions have allowed them to be so?13
+Institutional seeing and an institutional conceptual approach
+vis-d-vis the state
+Institutional Analysis: Expanding the Vision
+by Narrowing the Focus
+What an institutiona! approach means in relation to the state is to
+understand that the state may indeed be an instrument of either class or
+elite interests; or the state may indeed be an arena for the clash of class or
+elite interests, or for elite predation, or for interest-group or social-movement
+It can be argued that the central research question in a society-based
+contestation, etc. but also to understand it as an ensemble of political
+predation/strength (or also, civil society exclusion/empowerment) affect the
+and as significantly mediating the interaction between the state and these
+Philippine state's policies? An institutionai approach would ask a different
+although related question. The question would likely be: how does the design
+institutions as having a major role in social permeation whether they be
+of political institutions promote or hinder the effects of class domination/
+class, elites, interest groups, social movements, etc.
+102
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutionai Approach to Philippine Politics/Pilapil
+103
+
+===== PDF PAGE 9 =====
+fragmentation, or elite predation/strength, or civil society exclusion/
+Diagram 3. Institutions as Mediating Mechanisms between State and Society
+policies?15
+state
+Table 1. Central Research Question
+institutions
+Central research question
+Central research question
+(the missing link that could give a more holistic picture)
+under a society-based approach
+under an institutional analysis approach
+How does the design of institutions promote or
+How does class domination/fragmentation, or
+society
+elite predation/strength, or civil society
+hinder the effects of class
+exclusion/empowerment affect the Philippine
+domination/fragmentation, or elite
+state's policies?
+predation/strength, or civil society
+more holistic picture
+exclusion/empowerment on the Philippine state's
+policies?
+an institutional approach, the state is neither only a single actor nor only a
+single institution but an ensemble of political institutions (as weli as other
+With this different research question, employing an institutional approach
+would result in a different research focus and different research answers.
+other institutions making it up generates thousands of specific rules that
+What is so intellectually exciting in the institutional approach is that the
+together create multiple political effects (Przeworski et al. 1995: 12-13). At
+answers to this centrai research question can be employed to come up with
+times these rules contradict each other and at times these rules complement
+more holistic and at the same time more detailed answers than the competing
+also depend on the intermediation of rules with non-institutional factors
+politics.
+including the strategies adopted by social actors to exploit the rules to their
+advantage.
+More holistic: Political institutions may provide the missing link
+in the case of the Philippines' post-EDSA democratic government,
+The paper argues that an institutional approach can be more holistic
+scholars would have to be more detailed in their understanding and analysis
+because the concept of "political institutions" must now be taken as seriously
+of institutions more than ever if they want to, among others, begin to answer
+as the concepts of "state" and "society" (or social actors, however conceived).
+By seeing political institutions as important mediating mechanisms linking
+mentioned above. At this level of analyticai precision, it is no longer enough
+the state on one hand and society on the other, institutions may provide the
+to speak, for example, that there is elite predation but what is needed is to
+missing link needed to tie up state and society and create a conceptual
+be able to say how different political institutions facilitate (and possibly at
+framework that is holistic enough to grasp most of the crucial forces shaping
+times even hinder) elite predation of the state and the economy. Institutional
+the dynamics not only of Philippine politics but also of the broader Philippine
+analysis may offer the key to opening the "black box" (Remmer 1997: 50)
+state and society.
+of these types of analysis.
+104
+Philippine Political Science Journa! 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+105
+
+===== PDF PAGE 10 =====
+Since institutional analysis argues that the functioning of democratic
+institutions is to an important extent a function of their specific institutional
+country's institutions into better policy outputs and reform recommendations
+(Torres 2004, 2003a, 2003b, 2001).
+design, then such a conceptual approach must as a first step be able to
+classify the panoply of democratic institutions the Philippines has (in addition
+Indeed, by employing an institutional approach, a bigger picture may
+to the usual classification of class structure, elite family structure, NGO
+be arrived at by, ironically, narrowing down on how the details of political
+formation, social movements, and broader social structure the country has).
+Further, since the devil of institutional design is in the details, such
+institutions interplay with structural factors (e.g., income distribution, interest
+group formations, historical learning, and external penetration and
+understanding of democratic institutions must move on to be able to trace
+how the details of their design had and continue to have significant effects
+integration), social interests (e.g., class, elite, and social movement goals),
+and actor strategies (e.g., moderate-hardline, ally with-compete against,
+and comply-subvert). It is this attention to institutiona! details that may help
+This stress on details while already challenging becomes doubly so when
+scholars on Philippine politics arrive at a more holistic picture.
+institutional solutions are sought for the political pathologies of the country
+For instance, any proposed institutional reforms to address the institutional
+Some Recent Works on Philippine Political Institutions
+pathologies that have facilitated elite rentseeking in state economic policies
+and/or have blocked access to political representation of the marginalized
+Arguing for the need for an institutional approach does not mean that
+or pro-reform sectors would demand a more intense focus on institutional
+no scholar has been doing research work on institutions. Starting in the
+details and on how one set of institutional rules affects other rules (in addition
+early 199Os, works with a more or less institutionalist bent have trickled in.
+to the myriad interaction with non-institutional factors). If the kind of political
+A central impetus for many of these works is the charter change
+parties in the Philippines has magnified the political power of elite family-
+based politicians, what kind of political parties can maximize the political
+campaign in 2006 to shift the current presidential system to a parliamentary
+participation of previously excluded social sectors? But having gone down
+to the level of political party types, this question needs to be pursued at the
+level of electoral system. How does the Philippines' electoral system
+2002; Konrad Adenauer Foundation and the Local Government
+encourage the fragmentation and highly personalized nature of the country's
+superiority of the parliamentary over presidential systems, with the Abueva
+political party system and what institutional reforms can address these
+problems and at the same improve the chances of smaller, programmatic
+and Santos books containing articles systematically employing arguments
+drawn from the institutional design literature. Answering this pro-
+political parties for political representation in an electoral contest? Obviously,
+such a reform program could not be made up of generalities. If, for example,
+parliamentary onslaught are article-length works (e.g., Ruland 2003; Torres
+scholars choose a PR system, then such a choice further opens up a
+2004, 2003a, 2003b, 2001) which have also recruited arguments from
+bewildering array of finer-point institutional questions on what kind of PR
+the same institutional design literature to challenge the claims of Filipino
+system is wanted: what kind of party list, what level of threshold and ceiling,
+advocates of parliamentarism.
+what size of the voting district will maximize more expansive political
+participation goals (but at the same time not sacrifice the equally important
+While there is much to be desired with the level of theoretical sophistication
+of many of the articles in the charter change debate,18 it has at least
+successfully produced a rudimentary intellectual discourse on the crucial
+may believe in the efficacy of institutions in helping to structure Philippine
+role of institutional design in affecting key dimensions of politics in the
+political, economic, and social life but only in the context of pinpoint
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+107
+106
+Philippine Political Science Journal 27 (50) 2006
+
+===== PDF PAGE 11 =====
+Philippines from effective policymaking to popular representation and political
+the vices of the high fragmentation of the party system, low party cohesion,
+and low party discipline of the Philippine Congress as virtues in so far as
+thrusting into the local debate the argument of the central importance of
+they relate to the issue of delegative democracy. The case of the Philippine
+the type of the form of government in affecting, among others, executive-
+executive is in contrast to the ability of the president of South Korea to at
+legislative and party system dynamics in the Philippines. On the other hand,
+times lead a "hyper-presidential government" (91) where the president clearly
+the camp skeptical of the pro-parliamentary position can claim credit for
+dominates the legislature and is made possible through a combination of
+highlighting the importance of institutional variations within both presidential
+institutional factors of proactive powers and fewer veto players and the
+and parliamentary forms of government and the importance of the overall
+conjunctural factor of the president's disciplined political party being the
+institutionai configuration (i.e., form of government plus other political
+legislative majority.
+institutions such as the electoral and party systems) in explaining the
+performance of a political system.
+Far more expansive not only in length but also in theoretical and empirical
+scope than Croissant's work is Maclntyre's book-length work on political
+institutions in Southeast Asia that inserts the Philippines as one of its four
+institutional approach is the comparative works that include the Philippines
+country cases. Working on a rigorous institutional line based on a modified
+as a country case (see Croissant 2003 and Maclntyre 2003). These works
+institutional veto players framework taken from Tsebelis (although Macintyre's
+have well-developed institutional approach arguments that filter Philippine
+main argument also echoes closely the "executive concentration" argument
+well developed in the earlier "dual-transitions" literature that studied the
+is interesting to note is that these works show that the performance of the
+interplay of the simultaneous process of democratization and market reforms
+country's political institutions when viewed from a comparative perspective
+in both South and East, see for examples: Balcerowicz 1995; Diamond
+at least less negatively) than previous scholarship on Philippine political
+Morales 1996; Naim 1995; Nelson 1994a, 1994b), this work sought to
+institutions, especially from the pro-parliamentary camp, has assumed.
+investigate how the number of institutional players tended to centralize or
+fragment institutionalized decision-making in a polity and its crucial
+For example, Croissant compares the Philippine and South Korean
+implications to policy stability and change. It studies the "national political
+president's capacity to manifest the characteristic of delegative democracy
+architecture" (i.e., "the complex totality of a country's basic politica!
+(O'Donnell 1994) of riding roughshod over the legislative and judicial
+branches in policymaking. The comparison is based on the frameworks of
+and investigates the capacity of each country's political architecture to
+setting and decree powers) and "reactive" powers (veto powers) of the
+financial crisis and the attempt for institutional reform in that crisis' wake.
+presidency and George Tsebelis's (2000, 1999, 1995) number of veto
+Maclntyre classifies the pre-1997 Constitution Thailand as highly fragmented
+players (number of actors that can block policy change) across the political
+and the post-1997 Constitution as moderately fragmented; the Philippines
+system. Croissant's conclusion puts a positive spin to what have frequently
+as moderately fragmented; Malaysia as highly centralized; and !ndonesia
+been condemned by previous scholarship (e.g., Santos et al. 1997) as the
+under Suharto as "even more highly centralized" and after Suharto as moving
+pathologies of the Philippine institutional setting as he sees the combination
+towards a highly fragmented architecture.
+of weak proactive powers of the executive and the panoply of veto players
+as "secur[ing] a well-functioning separation of powers and effective horizontal
+Maclntyre's central insight is that "lilnstitutional configurations that
+accountability of the president in the Philippines" (9O), effectively turning
+severely centralize power are more prone to problems of policy volatility,
+108
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+109
+
+===== PDF PAGE 12 =====
+whereas configurations that severely fragment power are more prone to
+domination/fragmentation, or elite predation/strength, or civil society
+problems of policy rigidity" (160). Under this schema, the configuration of
+exclusion/empowerment on the Philippine state's policies? The paper argued
+Philippine political institutions is assessed as having relatively functioned
+that the answers to this central research question can be employed to come
+well. On the policy response to the 1997 financial crisis: "Thailand exhibited
+up with more holistic answers (in the sense that they can grasp more of the
+a pattern of debilitating policy rigidity, Malaysia and Indonesia exhibited
+crucial forces shaping the dynamics of Philippine politics from the state to
+the society to the political institutions in-between) and at the same time
+extreme syndrome but a satisfactory if messy intermediate pattern" (16l).
+more detailed answers (in the sense that they can explain how specific rules
+On the attempt for charter change in the Philippines in 1997, it failed
+of different political institutions magnify or mute the effects of other non-
+"precisely because of fears it would result in the country's political
+institutional factors) than those of the competing society-based frameworks
+configuration being pulled back in the direction of a dangerous centralization
+of decision-making power" (161-162).
+It is obvious that this paper was no more than a preliminary exploratory
+Conclusion
+work on a possible institutional approach to Philippine politics and had
+barely scratched the surface of what needs to be said about the topic. What
+The paper argued for the importance of applying an institutional
+are needed to move the arguments forward include both more theoretical
+approach in possibly opening up a new understanding of Philippine politics
+work on political institutions and institutional design (central to this theoretical
+that has not been accessed by the more dominant society-based conceptual
+task is the understanding of institutional reform) and more empirical work
+approaches. It considered institutions from a political science-inspired
+on Philippine political institutions. As mentioned earlier by the paper, the
+approach by limiting institutions to formal rules that influence the strategies
+current campaign on charter change may yet be the needed momentum to
+of state and social actors. The paper focused on political institutions and
+push scholars on Philippine politics to theorize and research in earnest how
+argued that political institutions are important because they act as incentives
+institutional design questions impact on, among others, the ambitions of
+and constraints for state and social actors and as mediating mechanisms
+self-interested politicians and the reform programs of programmatic civil
+within and among at least three types of intersecting arenas: state-society,
+society-based political parties and organizations. *
+state-economy, and state-external arenas. Going to the Philippine case, it
+criticized society-based approaches of the semi-colonial, semi-feudal class
+approach, Migdalian strong society-weak state approach, Weberian
+Notes
+neopatrimonial approach, and different versions of hybrid approaches as
+being institutionally blind for explaining state policies as a product of the
+1 Although new institutional economics is referred to here as singular, in reality the approach
+configuration of social forces and dismissing political institutions as
+is plural since it is made up of overlapping schools of thought. Christopher Clague (1 997:
+13-36), for example, raises at least four strands: 1 .) transaction cost economics; 2.) economics
+epiphenomena of autonomous social actors.
+of imperfect information; 3.) the economics of property rights; and 4.) collective action. For a
+comprehensive and critical review of the different approaches under new institutional economics,
+In contrast to these state-centered approaches, the paper argued that
+see Hodgson 1998.
+an institutional approach sees that the design of political institutions as
+The same is true with the political science-inspired institutional approach. Two political scientists
+having a major role in social permeation whether they be class, elites, interest
+(Crawford and Ostrom 1 995) list three major approaches in the atempt to define institutions:
+groups, social movements, etc. Appied specifically to Philippine politics, an
+institutions-as-equilibria, institutions-as-rules, and institutions-as-norms. For yet finer
+distinctions, see Ostrom 1991.
+institutional approach-inspired research question would ask: how does the
+design of political institutions promote or hinder the effects of class
+110
+Philippine Political Science Journal 27 (50) 2006
+111
+
+===== PDF PAGE 13 =====
+2 What political scientists practicing an institutional approach usually do is to tick off what are
+5 Political institutions have in the past been reduced as epiphenomena of social structures that
+to count as institutions such as constitutions, the different branches of government, political
+the resurgence of institutionalism had works with titles like Do Institutions Matter? (e.g..
+parties, electoral systems, and economic regulatory institutions and then to study their rule-
+Weaver and Rockman 1993). Whether couched in terms of autonomy or mediation, the thrust
+making, rule-implementing, or rule-adjudicating roles. Even when some scholars include
+of institutionalism is to insist on the opaqueness of institutions which once enacted assume a
+informal rules as rules (e.g., Goodin 1 996), it is clear that when they analyze politics what they
+certain kind of existence irreducible to the intentions of the actors (whether state or social) who
+focus on are overwhelmingly formal political institutions.
+drafted them (Baylis 1996; Elster 1997; Linz and Stepan 1996; March and Olsen 1984).
+Another definitional difference between the new institutionai economics and a more politica!
+Building on the work of March and Olsen, Scott Mainwaring (1 999: 7) gives two cogent
+science-inspired institutional approach is the strict distinction made by the former between
+rationoles for bothering with political institutions: "[1]nstitutionalism rests upon two fundamental
+institutions and organizations. Organizations for North (1994: 2) "are composed of groups
+claims. First, political institutions must be more than an expression of societal interests or
+of individuals bound by a common purpose to achieve objectives. They include political
+cultural patterns. If political institutions were little more than that, as several theoretical
+bodies (political parties, the senate, a city council, a regulatory agency); economic bodies
+perspectives suggest, then analysis should focus primarily on them and treat institutions as
+(firms, trade unions, family farms, cooperatives); sociol bodies (churches, clubs, athletic
+secondary or epiphenomenal. As opposed to perspectives that see politics as determined by
+associations); and educational bodies (schools, colleges, vocational training centers)." This
+economic, social, or cultura! factors, institutionalism posits the relative autonomy of politics
+distinction is not as pronounced in the political science-inspired institutional approach which
+vis-α-vis such factors. Second, institutions must be major actors in shaping political life
+usually considers, for example, political parties, legisiative bodies, local government councils,
+otherwise there would be littie point to studying them. If these two claims are correct, institutions
+provide an excellent lens for studying politics."
+emphasizes the overlap between institutions and organizations, see Graham and Naim (1998:
+6 According to O'Donneil (1994: 57-59), "[tlhe characteristics of a functioning institutional
+325-326).
+setting include the following: 1.) Institutions both incorporate and exclude ....2.) Institutions
+3 According to some scholars, this emphasis on the political institutions specifically geared for
+shape the probability distribution of outcomes....3.) Institutions tend to aggregate, and to
+the representation of social interests designates the difference between the institutionalism of
+stabilize the aggregation of, the level of action and organization of agents interacting with
+the 1970s and the institutionalism of the 1980s and the 1990s.
+them....4.) Institutions induce patterns of representation....5.) Institutions stabilize agents /
+representatives and their expectations....6.) nstitutions lengthen the time horizon of actors"
+Made up mainly of studies of the successful authoritarian East Asian NiCs (while juxtaposing
+(emphasis in the original).
+these cases with their problematic authoritarian counterparts in Africa and Latin America), the
+earlier institutionalism, labeled as "state-centered institutionalism," focused on the state as an
+For a comprehensive book-length review of what institutions do written by political scientists,
+actor (i.e., the extent that state officials form a cohesive group capable of articulating their own
+see Lane and Ersson (2000).
+policy prescriptions relatively independent of society), zeroed in on the administrative and
+7 See this coupling of strategy and outcome: "Though the analysis of the social and political
+technocratic policymaking institutions of the state, and had for its centra! concept "state
+consequences of economic performance is the starting point for any political economy, political
+autonomy."
+and policy outcomes cannot be understood as a simple vector of social interests. We do not
+On the other hand, the more recent "polity-centered institutionalism" which is more
+make the strong claim that institutions affect the underlying preferences of social actors, but
+representative of studies on the international democratic wave from the early 198Os to the
+they do affect their strategies and capabilities, and thus the likelihood that they will achieve
+mid- 1 990Os focuses on the political institutions specifically associated with democratic regimes.
+their objectives" (Haggard and Kaufman 1995: 370).
+Here the emphasis is on political institutions that act as intermediary mechanisms between
+8 Przeworski (1 991) lists fairness (together with effectivity) as an important institutional reward
+state and social actors such as the legislatures, political parties, and the electoral system.
+that leads actors to comply with democratic outcomes. Fairness is the incentive factor for
+For the differences between state-centered and polity-centered institutionalism, see Pontusson
+winning since it infuses in all the relevant political forces the belief that they have a chance to
+(1995: 1 17-147). For a good overview of the rise of a political science-based institutionalism,
+win from time to time in the competition of interests and values in a democracy.
+9 O'Donnell (1994: 59) provides a good explanation of the role of institutions as crucial
+4 Institutional design here is understood as the differences in inter- and intra-regime institutional
+intermediary mechanisms: "A way to summarize what I have said is that, in the functioning of
+features. Institutional design is based on the key argument that differences in institutional
+contemporary, compiex societies, democratic political institutions provide a crucial leve! of
+arrangements (the design) make a difference in a nation's politics. This is a central premise of
+mediation and aggregation between on one side, structural factors and, on the other, not only
+the institutional approach to democracy and democratization (Haggard and Kaufman 1995:
+individuals but also the diverse groupings under which society organizes its multiple interests
+7; March and Olsen 1984: 738; Przeworski 1992: 54; Przeworski et al. 1995: 107).
+and identities. This intermediatei.e., institutionallevel has an important impact on the
+patterns of organization of society, bestowing representation upon some participants in the
+political process and excluding others."
+112
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+113
+
+===== PDF PAGE 14 =====
+10 To the extent that Sison (1970: 116) speaks of political parties and elections in his classic
+14 Not all permeation comes from social interests; it is a central argument of state-centered
+book, Philippine Society and Revolution, it is only to dismiss these political institutions for
+theorists that actors within the state also have their own interests as state actors including
+their class bias: "Through their political parties, the bureaucrat capitalists try to give the
+those of state building, state maintenance, and state survival. For example, in the East Asian
+masses the false illusion of democratic choice. Butthese political parties are nothing but the
+context of the Cold-War NICs, the shift of Taiwan and South Korea from an ISI to EOl strategy
+external trappings of comprador-landlord dynasties perpetuating themselves in power."
+is seen by some scholars as not being based on social demands because at that time of the
+shift they still had ISl elites. The move was an independent strategy of state elites because of
+For a useful discussion of the different readings of Left scholars on the Philippine mode of
+the threats of their competing communist counterpart states and the dwindling military aid
+production, see Rojas (1992). Here one can see that whether the state was seen as an
+from the US. This means that state actors may and do act in terms of their capacity beyond
+epiphenomenon or as a relatively autonomous entity by Philippine Left scholars, the type of
+social demands to formulate their own policies (but again subject to the constraints of, among
+political institutions (e.g., whether presidential or parliamentary or whether single-member
+others, the political institutions that the state has). For a line of analysis on the "East Asian
+district or proportional representation) constituting the state was never problematized.
+tigers" that highlights the strategies of state elites in those countries, see Haggard (1990: 1 -
+11 If at the general level of state theorizing, regime types do not matter, then more so at the
+48).
+more specific level of distinctions in democratic institutions such as the impact on class politics
+1s For example, this institutional approach can be compared with that of the elite family
+if Philippine democracy would have a parliamentary form of government or a proportional
+approach's dismissal of political parties as mere coalitions of elite families. There is no doubt
+representation electoral system. Thus, the national democrats have yet to produce any serious
+that political parties are weak and function more as disposable alliances of elite clans but that
+theoretical work on political institutions even when they have, through Bayan Muna in 2001 ,
+does not mean that the analytica! focus should immediately or could only shift to families as
+started to learn the bitter effects of a flawed marginal party-list institutional design.
+the sole fruitfu! analytical category that can be explored on this issue since an institutional
+It is also important to raise that in the programmatic vision of the CPP-led national democratic
+approach can be applied to analyze the role the design of the electoral system played in
+movement, the "democracy" in national democracy has no real relation or reference to
+making these parties weak and not just the role played by the "strong" elite families. Another
+democratic institutions (least of all to elections that would periodically affirm the consent of
+way of saying this is that the elite family approach has already inspired outstanding researches
+those whom the movement supposedly represents) but to the fact that the movement is anti-
+like Coronel et al.'s The Rulemakers (2004) but what is direly needed now from an institutional
+feudal and anti-fascist. See this quote from Sison: "lt is a democratic revolution principally
+approach problematic are works on the "rules" themselves.
+because it seeks to fulfill the peasant struggle for land against domestic feudalism and
+16 This sensitivity to the effects of institutions on each other is what is known in the literature as
+furthermore it seeks to uphold the democratic rights of the broad masses of the people against
+"institutional configuration" (e.g., how electoral system rules to elect Congress tend to
+fascism" (1970: 129).
+undermine or strengthen presidential powers). This means that institutions must never be
+12 Migdal was well aware of the weakness of his theory with respect to regime types. Among
+analyzed independently from other institutions that may affect their functioning. See Mainwaring
+the issues he believes needed to be further studied in order to make his theory more complete
+and Shugart (1997: 394-437).
+is "the effect of different types of government (e.g., democracy) on state-society relations, and
+17 For example, few people in 1987 would have thought that the new 1987 Constitution's
+the opposite: the effects of different types of state-society relations on the type of government"
+single-term rule for the president, meant to address the trauma of Marcos's martial law power
+(1988: xvi-xvii). Unfortunately, incarnations of Migdalian theory in Philippine studies have
+grab during his second term, would be so problematic and disruptive of Philippine politics less
+not taken the research and theoretical direction Migdal says is needed to make his theory
+than a decade later. Because of this shortening of time horizon for the incumbent (from the
+sounder.
+13 Interestingly, the explanation for the strength of Filipino elite families (as well as the very
+there is a powerful incentive for incumbents to tinker with the constitution in order to allow for
+personalized electoral politics and weak political parties) can very well be absorbed in an
+a second term, thus introducing a destabilizing force to the constitutional framework itself. For
+institutional framework. In the American period, it is the sequencing of elections where single-
+both the latter part of the term of Fidel Ramos and the early part of the abbreviated term of
+member districts were introduced from municipal to national politics that helped to project
+Joseph Estrada, the incentive for another presidential term-although in the guise of shifting
+local elite clans into national politics. The early rise of an electoral elite preceded and ultimately
+to a parliamentary form of governmenthas helped push for constitutional change and has
+stunted the development of a meritocratic civil service elite as electoral politics served as a
+absorbed the energies of different politica! actors from opposing camps during the 1996-
+platform for elite predation on the bureaucracy, and, hence, on state resources. This analysis
+1997 "cha-cha" campaign and the 1999-2000 "concord" campaign. The case of the 2001-
+is common enough even for those who emphasize a society-based framework such as McCoy
+2004 presidency of Gloria Arroyo was different only because she was eligible to run for
+and Hutchcroft and would thus point to the many common grounds from which a more conscious
+president in 2004. If there is one stark illustration of the unexpected outcomes of rules (from
+institutional-inspired work can start.
+the intention of stabilizing succession rules to being an incentive to tinkering with succession
+rules), this is it. For other miscalculations on the design of institutions in new democracies, a
+good starting read is Elster (1 997)..For a review of the arguments for and against reelection by
+the institutional design literature and of the recent experience of some Latin American countries
+in reintroducing reelection in their presidential succession rules, see Carey 2003.
+114
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+115
+
+===== PDF PAGE 15 =====
+18 The crudeness of the arguments of many Filipino parliamentary advocates which often
+Ciague, Christopher. 1997. "The New Institutional Economics and Economic Development."
+border on a caricature of the presidential system and a valorization of the parliamentary
+In Christopher Clague ed., Institutions and Economic Development: Growth and
+system as forms of government is reviewed by Torres (2003a).
+Governance in Less-Developed and Post-Socialist Countries. Baltimore: Johns Hopkins
+University Press, pp. 13-36.
+Clarke, Gerard. 1998. The Politics of NGOs in Southeast Asia: Participation and Protest in
+References
+the Philippines. London: Routiedge, pp. 52-95.
+Abueva, Jose et al. eds. 2002. Towards a Federal Republic of the Philippines with a Parliamentary
+Coronel, Sheila S. et al. 2004. The Rulemakers: How the Weaithy and Well-Born Dominate
+Government: A Reader. Manila: Kalayaan College-Center for Social Policy and
+Congress. Quezon City: Philippine Center for Investigative Journalism.
+Governance, Local Government Development Foundation, Lihok Pideral-Kusog
+Crawford, Sue E.S. and Elinor Ostrom. 1995. "A Grammar of Institutions." American Political
+Mindanaw, Konrad-Adenaur-Stiftung, Philippines.
+Science Review 89-3, pp. 582-600.
+Alegre, Alan G. ed. 1996. Trends and Traditions, Challenges and Choices: A Strategic Study of
+Croissant, Aurel. 2003. "Legislative Powers, Veto Players, and the Emergence of Delegative
+Philippine NGOs. Quezon City: Ateneo Center for Social Policy and Public Affairs and
+Democracy: A Comparison of Presidentialism in the Philippines and South Korea."
+the Philippine-Canada Human Resource Development Program.
+Democratization 10-3, pp. 68-98.
+Balcerowicz, Leszek. 1995. "Understanding Postcommunist Transitions." In Larry Diamond
+Diamond, Larry. 1999. Developing Democracy: Toward Consolidation. Baltimore and London:
+and Marc F. Plattner, eds:, Economic Reform and Democracy. Baltimore: Johns Hopkins
+Johns Hopkins University Press.
+University Press, pp. 86-100.
+. 1995. "Democracy and Economic Reform: Tensions, Compatibilities, and Strategies
+Baylis, Thomas A. 1996. "Presidents Versus Prime Ministers: Shaping Executive Authority in
+for Reconciliation." In Edward P. Lazear, ed., Economic Transition in Eastern Europe and
+Eastern Europe." World Politics 48-3, pp. 297-323.
+Russia: Realities of Reform. California: Hoover Institution Press, pp. 107-158.
+Elkins, David J. and Richard E. B. Simeon. 1979. "A Cause in Search of its Effect, or What Does
+Society 45-1, pp. 119-134.
+Politica! Culture Explain?" Comparative Politics 11-2, pp. 127-145.
+. 2000. "Parchment, Equilibria, and Institutions." Comparative Political Studies 33.
+Eister, Jon. 1997. "Afterword: The Making of Postcommunist Presidencies." In Ray Taras, ed.,
+6/7, pp. 735-761.
+Postcommunist Presidents. Cambridge: Cambridge University Press, pp. 225-237.
+Carey, John M., Octavio Amorim Neto, and Matthew Soberg Shugart, comps. 1997. "Appendix
+Elster, Jon, Claus Offe, and Ulrich K. Preuss. 1998. Institutionai Design in Post-communist
+Outlines of Constitutiona! Powers in Latin America." In Scott Mainwaring and Matthew
+Societies: Rebuilding the Ship at Sea. Cambridge: Cambridge University Press.
+Soberg Shugart, eds., Presidentialism and Democracy in Latin America. Cambridge:
+Cambridge University Press, pp. 440.460.
+European Bank for Reconstruction and Development. 1999. Transition Report 1999: Ten
+Years of Transition. London: European Bank of Reconstruction and Development.
+Carey, John M. and Matthew Soberg Shugart. 1995. "Incentives to Cultivate a Personal Vote:
+A Rank Ordering of Electoral Formulas." Electoral Studies 14-4, pp. 417-439.
+Frischtak, Leila. 1996. "Overview: From Policy Reform to Institutional Change." In Leila
+Frischtak and Izak Atiyas, eds. Governance, Leadership, and Communication: Building
+Cheibub, José Antonio. 2002. "Presidentialism and Democratic Performance." In Andrew
+Constituencies for Economic Reform. Washington: World Bank, pp. 1-32.
+Reynolds, ed., The Architecture of Democracy: Constitutional Design, Conflict
+Management, and Democracy. Oxford: Oxford University Press, pp. 104-1 40.
+Geddes, Barbara. 1994. "Initiation of New Democratic Institutions in Eastern Europe and
+Latin America." In Arend Lijphart and Carlos H. Waisman, eds., Institutional Design in
+. 1999. "Divided Government, Deadiock and the Survival of Presidents and
+New Democracies: Eastern Europe and Latin America. Colorado: Westview Press, pp.
+Presidential Regimes." Available from http://www.nd.edu/-kellogg/pdfs/Cheibub.pdf.
+15-41.
+Cheibub, José Antonio and Fernando Limongi. 2002. "Democratic Institutions and Regime
+Goodin, Robert E. 1996. "Institutions and Their Design." In Robert E. Goodin, ed., The Theory
+Survival: Parliamentary and Presidential Democracies Reconsidered." Annual Review of
+of Institutional Design. Cambridge: Cambridge University Press, pp. 1-53.
+Political Science 5, pp. 151-179.
+Some Arguments for an lnstitutional Approach to Philippine Politics/Pilapil
+116
+117
+Philippine Political Science Journal 27 (50) 2006
+
+===== PDF PAGE 16 =====
+Graham, Carol and Moisés Naim. 1998. "The Political Economy of Institutional Reform in
+Jone, Mark P 1997. "Evaluating Argentina's Presidential Democracy: 1983-1995." In Sco
+Latin America." In Nancy Birdsall, Carol Graham, and Richard H. Sabot, eds., Beyond
+Mainwaring and Matthew Soberg Shugart, eds., Presidentialism and Democracy in Latin
+Tradeoffs: Market Reform and Equitable Growth in Latin America. Washington: Inter-
+America. Cambridge: Cambridge University Press, Pp. 259-299.
+American Development Bank and Brookings Institution Press, pp. 321-359.
+Konrad Adenauer Foundation and the Local Government Development Foundation. 1 991.
+Greif, Avner. 1992. "Institutions and International Trade: Lessons from the Commercial
+Summary of Conference Proceedings: First National Conference on Parliamentary
+Revotution." American Economic Review 82-2, pp. 128-133.
+Government.
+ 1989. "Reputation and Coalitions in Medieval Trade: Evidence.on the Maghribi
+Kerkvliet, Benedict Tria J. 1995. "Toward a More Comprehensive Analysis of Philippine Politics :
+Traders." Journal of Economic History 49-4, pp. 857-882.
+Beyond the Patron-Client, Factional Framework." Journal of Southeast Asian Studies 26-
+2, pp. 401-419.
+Guerrero, Amado (Jose Ma. Sison). 1979 (1970). Philippine Society and Revolution. 3rd
+edition. California: International Association of Filipino Patriots, pp. 63-128.
+Laitin, David D. and Aaron Wildavsky. 1988. "Political Culture and Political Preferences."
+American Political Science Review 82-2, pp. 589-597.
+Haggard, Stephan. 1997. "Democratic Institutions, Econamic Policy, and Development." In
+Christopher Clague, ed., Institutions and Economic Development: Growth and
+Lane, Jan-Erik and Svante Ersson. 2000. The New Institutional Politics: Performance and
+Governance in Less-Developed and Post-Socialist Countries. Baltimore: Johns Hopkins
+Outcomes. London: Routledge.
+University Press, pp. 121-149.
+Lane, Ruth. 1992. "Political Culture: Residual Category or General Theory?" Comparative
+. 1990. Pathways from the Periphery: The Politics of Growth in the Newly Industrializing
+Political Studies 25-3, pp. 362-387.
+Countries. Ithaca and London: Cornell University Press, pp. 1-48.
+Liiphart, Arend. 1 992. "Introduction." In Arend Liphart ed., Parliamentary versus Presidentia!
+Haggard, Stephan and Robert Kaufman. 1995. The Political Economy of Democratic Transitions.
+Government. New York: Oxford University Press, pp. 1-27.
+New Jersey: Princeton University Press.
+Liphart, Arend and Carlos H. Waisman. 1996. "Institutional Design and Democratization,"
+. 1994. "The Challenges of Consolidation." Journal of Democracy 5-4, pp. 5-16.
+and "The Design of Markets and Democracies: Generalizing Across Regions." In Arend
+Lijphart and Carlos H. Waisman, eds., Institutional Design in New Democracies: Eastern
+. 1992. "Institutions and Economic Adjustment." In Stephan Haggard and Robert
+Europe and Latin America. Colorado: Westview Press, pp. 1-11 and 235-248.
+Kaufman, eds., The Politics of Economic Adjustment: International Constraints Distributive
+Linz, Juan. 1994. "Presidential or Parliamentary Democracy: Does It Make a Difference?" In
+Juan J. Linz and Arturo Valenzuela, eds. The Failure of Presidential Democracy, Volume
+Haggard, Stephan and Mathew D. McCubbins. 2001. "Political Institutions and the Determinants
+One: Comparative Perspectives and Volume Two: The Case of Latin America. Baltimore
+of Public Policy." In Stephan Haggard and Mathew D. McCubbins, eds., Presidents,
+and London: Johns Hopkins University Press, pp. 3-87.
+Parliaments and Policy. New York: Cambridge University Press, pp. 1-17.
+Linz, Juan J. and Alfred Stepan. 1996. Problems of Democratic Transition and Consolidation:
+Hagopian, Frances. 2000. "Political Development, Revisited." Comparative Political Studies
+Southern Europe, South America, and Post-Communist Europe. Baltimore and London:
+33-6/7, pp. 880-911.
+Johns Hopkins University Press.
+Hodgson, Geoffrey M. 1 998. "The Approach of Institutional Economics ." Journal of Economic
+Lutz, Donald S. 1994. "Toward a Theory of Constitutional Amendment." American Politica!
+Literature 36-1, pp. 166-192.
+Science Review 88-2, pp. 355-370.
+Huntington, Samuel P. 1991. The Third Wave: Democratization in the Late Twentieth Century.
+Maclntyre, Andrew. 2003. The Power of Institutions: Political Architecture and Governance.
+Norman: Oklahoma University Press, pp. 3-30 and 280-316.
+Ithaca and London: Cornell University Press.
+Hutchcroft, Paul. 1991 . "Oligarchs and Cronies in the Philippine State: The Politics of Patrimonial
+Mainwaring, Scott. 1999. Rethinking Party Systems in the Third Wave of Democratization: The
+Plunder." World Politics 43-3, pp. 414-450.
+Case of Brazil. California: Stanford University Press, pp. 3-60 and 322-341.
+Inglehart, Ronald. 1988. "The Renaissance of Political Culture." American Political Science
+Review 82-4, pp. 1203-1230.
+Some Arguments for an lnstitutional Approach to Philippine Politics/Pilapil
+118
+Philippine Political Science Journal 27 (50) 2006
+119
+
+===== PDF PAGE 17 =====
+Mainwaring Scott and Matthew Soberg Shugart. 1997. "Presidentialism and Democracy in
+. 1994b. "How Market Reforms and Democratic Consolidation Affect Each Other."
+Latin America: Rethinking the Terms of the Debate," and "Conclusion: Presidentialism
+In Joan M. Nelson, ed., Intricate Links: Democratization and Market Reforms in Latin
+and the Party System." In Scott Mainwaring and Matthew Soberg Shugart, eds.,
+America and Eastern Europe. New Brunswick, New Jersey: Transaction Publishers for
+Presidentialism and Democracy in Latin America. Cambridge: Cambridge University Press,
+Overoas Development Council, pp. 1-36.
+pp. 12-54 and 394-439.
+Nelson, Joan, Charles Tilly, and Lee Walker. 1997. "Introduction." In Joan M. Nelson, Charles
+. 1993. "Juan Linz, Presidentialism, and Democracy: A Critical Appraisal," Helen
+Tilly, and Lee Walker, eds., Transforming Post-Communist Political Economies. Washington,
+Kellogg Institute for International Studies Working Paper no. 200. Available from http://
+D.C.: National Academy Press, pp. 1-9.
+www.nd.edu/-keliogg/WPS/200.pdf.
+Nohlen, Dieter. 1996. "Electoral Systems and Electoral Reform in Latin America." In Arend
+Manin, Bernard et al. 1999. "Elections and Representation." In Adam Przeworski, Susan
+Liphart and Carlos H. Waisman, eds., Institutional Design in New Democracies: Eastern
+Stokes, and Bernard Manin, eds. Democracy, Accountability, and Representation.
+Europe and Latin America. Colorado: Westview Press, Pp. 43-57.
+Cambridge: Cambridge University Press, pp. 29-54.
+Maravall, Jose Maria. 1994. "The Myth of the Authoritarian Advantage." Journal of Democracy
+Tilly, and Lee Walker, eds., Transforming Post-Communist Political Economies. Washington,
+5-4, pp. 17-31.
+D.C.: National Academy Press, pp. 13-18.
+March, James G. and Johan P Olsen. 1998. "The Institutional Dynamics of international
+Political Orders." International Organization 52-4, pp. 943-969.
+from htp://econpapers.repec.org/paper/wpawuwpeh/94 11004.htm.
+. 1984. "The New Institutionalism: Organizational Factors in Political Life." American
+. 1991. "Institutions." Journal of Economic Perspectives 5-1, Pp. 97-112.
+Political Science Review 78-3, pp. 734-749.
+North, Douglass C. and Barry R. Weingast. 1989. "Constitutions and Commitment: The
+McCoy, Alfred. 1994. ""An Anarchy of Families': The Historiography of State and Family in the
+Evolution of Institutional Governing Public Choice in Seventeenth-Century England."
+Philippines." In Alfred McCoy, ed., An Anarchy of Families: State and Family in the
+Journal of Economic History 49-4, pp. 803-832.
+Philippines. Quezon City: Ateneo de Manila University Press, pp. 1-32.
+O'Donnell, Guillermo. 1994. "Delegative Democracy" Journal of Democracy 5-1, pp. 55-
+Melegrito, Ma. Lourdes and Diana J. Mendoza. "NGOs, Politics, and Governance." In Politics
+69.
+and Governance: Theory and Practice in the Philippine Context. Quezon City: Ateneo de
+Ostrom, Elinor. 1991. "Rational Choice Theory and Institutional Analysis: Toward
+Manila University, pp. 229-264.
+Complementarity." American Political Science Review 85-1, pp. 237-243.
+Migdal, Joel S. 1 988. Strong Societies and Weak States: State-Society Relations and State
+Pontusson, Jonas. 1995. "From Comparative Public Policy to Political Economy: Putting Political
+Capabilities in the Third World. New Jersey: Princeton University Press, pp. xii-xxi and 3.
+41.
+Institutions in their Place and Taking Interests Seriously." Comparative Politicai Studies
+27-1, pp. 117-147.
+Morales, Juan Antonio. 1996. "Bolivia and the Slowdown of the Reform Process." In Leila
+Power, Timothy J. and Mark J. Gasiorowski. 1997. "Institutional Design and Democratic
+Frischtak and Izak Atiyas, eds., Governance, Leadership, and Communication: Building
+Consolidation in the Third World." Comparative Political Studies 30-2, pp. 123-1 55.
+Constituencies for Economic Reform. Washington: World Bank, pp. 131-157.
+Przeworski, Adam. 2003. State and Market: A Primer in Political Economy. New York: Cambridge
+Moreno, Erika, Brian F. Crisp, and Matthew Soberg Shugart. 2000. "Accountability Deficit in
+University Press.
+Latin America." Available from www.nd.edu/--kellogg/pdfs/Shugart.pdf.
+. 1997. "The State in a Market Economy." In Joan M. Nelson, Charles Tilly, and Lee
+Naim, Moisés. 1995. "Latin America: The Second Stage of Reform." In Larry Diamond and
+Walker, eds., Transforming Post-Communist Political Economies. Washington, D.C.:
+Marc F. Plattner, eds., Economic Reform and Democracy. Baltimore: Johns Hopkins
+National Academy Press, Pp. 411-431.
+University Press, pp. 28-44.
+Nelson, Joan M. 1994a. "Linkages Between Politics and Economics." Journal of Democracy
+. ed., 1995. Sustainable Democracy. Cambridge: Cambridge University Press.
+5-4, pp. 49-62.
+120
+Philippine Political Science Journal 27 (50) 2006
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+121
+
+===== PDF PAGE 18 =====
+Shugart, Mutthew Soberg and Martin P Wattenberg. 2001. "Conclusion: Are Mixed-Member
+. 1992. "The Neo-Liberal Fallacy." Journal of Democracy 3-3, Pp. 45-59.
+Sytnms Ihe Best of Both Worlds?" In Matthew Soberg Shugart and Martin P. Wattenberg,
+. 1991. Democracy and the Market: Political and Economic Reforms in Eastern
+ad., Mixed-Member Electoral Systems: The Best of Both Worlds? Oxford: Oxford
+Europe and Latin America. Cambridge: Cambridge University Press.
+Univulsity Press, pp. 571-596.
+Przeworski, Adam, Luiz Carlos Bresser Pereira, and Jose Maria Maravall. 1993. "Introduction."
+Sison, Just Ma. 1998. "An Update: Qualitatively Unchanged Conditions." In Jose Ma. Sison
+In Adam Przeworski, Luiz Carlos Bresser Pereira, and Jose Maria Maravall, eds., Economic
+ane Julieta de Lima, Philippine Economy and Politics. Philippines: Aklat ng
+Reforms in New Democracies: A Social Democratic Approach. Cambridge: Cambridge
+Bayain Publishing House, pp. 3-16.
+University Press, pp. 1-14.
+Spiller, P'aublo T. and Mariano Tommasi. 2000. "The Institutional Foundations of Public Policy:
+Przeworski, Adam, Michael Alvarez, José Antonio Cheibub, and Fernando Limongi. 1996.
+A ltunsactions Approach with Application to Argentina." Available from http://
+"What Makes Democracies Endure?" Journal of Democracy 7-1, Pp. 236-268.
+www.wcfia.harvard.edu/conferences/piep/piep06012002/papers/spillertommasi.pdf.
+Remmer, Karen L. 1997. "Theoretical Decay and Theoretical Development: The Resurgence of
+Stepan, Alfred and Cindy Skach. 1993. "Constitutional Frameworks and Democratic
+Institutional Analysis." World Politics 50-1, Pp. 34-61.
+(.o1isolidation: Parliamentarism versus Presidentialism." World Politics 46-1, pp. 1-22.
+Reynolds, Andrew and Ben Reilly, eds., The International IDEA Handbook of Electoral System
+Taagapora, Rein and Matthew Soberg Shugart. 1993. "Predicting the Number of Parties: A
+Design. Stockholm: International Institute for Democracy and Electoral Assistance.
+Quantitative Model of Duverger's Mechanical Effect." American Political Science Review
+87-2, pp. 455-464.
+Rocamora, Joel. 1995. "Classes, Bosses, Goons, and Guns: Re-imagining Philippine Political
+Culture." In Jose F Lacaba, ed., Boss: 5 Case Studies of Local Politics in the Philippines.
+Torres, Crisline G. 2004. "The Philippine Pro-Parliamentary Position and the Comparative
+Pasig: Philippine Center for Investigative Journalism and Institute for Popular Democracy,
+Constitutional Design Literature." Philippine Political Science Journal 25-48, pp. 55-78.
+pp. vii-xxxi.
+. 2003a. "A Review of the Pro-Parliamentary Critique of the Presidential Form of
+Rojas, Virgilio. 1992. "The Mode of Production Controversy in the Philippines: Anatomy of a
+Government of the 1987 Philippine Constitution." Unpublished manuscript.
+Lingering Theoretical Stalemate." Debate: Philippine Left Review 4, pp. 3-43.
+. 2003b. "Democratic Survivability and the Parliamentary Critique of the Presidential
+Ruland, Jurgen. 2003. "Constitutional Debates in the Philippines: From Presidentialism to
+Form of Government in the Philippines." Public Policy 7-2, pp. 1-36.
+Parliamentarism." Asian Survey 43-3, pp. 461-484.
+Santos, Soliman Jr. et al. 1997. Shift. Quezon City: Ateneo Center for Social Policy and Public
+Political Brief 9-7.
+Affairs.
+Tsebelis, George C. 2000. "Veto Players and Institutional Analysis." Governance 13-4, pp.
+Shugart, Matthew Soberg. 1995. "The Electoral Cycle and institutional Sources of Divided
+441-474.
+Presidential Government." American Political Science Review 89-2, pp. 327-343.
+. 1999. "Veto Players and Law Production in Parliamentary Democracies: An Empirical
+Shugart, Matthew Soberg and John M. Carey. 1992. President and Assemblies: Constitutional
+Analysis." American Political Science Review 93-3, pp. 591-608.
+Design and Electoral Dynamics. Cambridge: Cambridge University Press, Pp. 28-54.
+: 1995. "Decision Making in Political Systems: Veto Players in Presidentialism,
+Shugart, Matthew Soberg and Stephan Haggard. 2001. "Institutions and Public Policy in
+Parliamentarism, Multicameralism and Multipartyism." British Journal of Political Science
+Presidential Systems." In Stephan Haggard and Mathew D. McCubbins, eds., Presidents,
+25-3, pp. 289-325.
+Parliaments and Policy. New York: Cambridge University Press, Pp. 64-102.
+Shugart, Matthew Soberg, Melody Ellis Valdini, and Kati Suominen. 2005. "Looking for Locals:
+Kent Weaver and Bert A. Rockman, eds., Do Institutions Matter: Government Capabilities
+Voter Information Demands and Personal Vote-Earning Attributes of Legislators under
+in the United States and Abroad. Washington: Brookings Institution, pp. 445-461.
+Proportional Representation." American Journal of Political Science 49-2, Pp. 437-449.
+Some Arguments for an Institutional Approach to Philippine Politics/Pilapil
+122
+123
+Philippine Political Science Journal 27 (50) 2006
+
+===== PDF PAGE 19 =====
+Book Reviews
+World Bank. 2001. Worid Development Report 2002: Building Institutions for Markets. New
+Gerard A. Finin, The Making of the Igorot: Contours on the
+York: Oxford University Press, pp. 99-1 16.
+Cordillera Consciousness. Manila, Philippines: Ateneo de Manila
+Univorsity Press, 2005. 345 pages.
+. 1998. Beyond Washington Consensus: Institutions Matter. Washington, D.C.: The
+World Bank, pp. 3-9.
+Wui, Marlon A. and Ma. Glenda S. Lopez, eds. 1998. Philippine Democracy Agenda Volume
+Two: State-Civil Society Relations in Policy-Making. Quezon City: Third World Studies
+In the context of globalization, increasing instances of religious extremism
+Center.
+and rapid technological changes have made the issue of identity-politics
+increasingly relevant. The process of an ever-widening horizon for interaction
+by indigenous peoples has provoked questions of "integration", withdrawal
+or combinations of these responses with the majority cultures. However, in
+order to have a better grasp of this process, the roots, nature and formation
+of the identity of peoples have to be understood.
+Written by Gerard Finin, the book, The Making of the Igorot: Contours
+of Cordillera Consciousness, is a welcome addition to the list of scholarly
+papers on the history and identity of the Cordillera people. The book
+comprises ten (1O) chapters on the following topics: aspects of geography,
+the written texts about the Cordillera people, the impact of the American
+colonial period, the creation of a Mountain Province as a distinct geo-political
+unit (the constitutionally mandated Cordillera Administrative Region or CAR),
+CRISLINEG.TORRES
+the process of the creation and development of an lgoroi consciousness
+AssistantProfessor
+among different groups in the area, and the evolution of that consciousness
+DepartmentofPoliticalScience
+Universityof thePhilippines
+during the Second World War, the post-war period, the Martial Law and
+Post-Martial Law times.
+The author argues that the "collective ethnoregional consciousness
+among highlanders" or what some call as the pan-lgorot or pan-Cordillera
+identity that has been the basis for the clamor for political autonomy is not
+based on "natural" features of the physical environment, but on the policies
+of American colonizers. This argument highlights the question of the roots
+of the Cordilleran peoples' identity that has long been assumed as based
+on land tenure. As argued by Finin, identity politics is not traced to particular
+systems of resource ownership or on unique indigenous practices, awareness
+or boundaries (be it geophysical or social), but rather on created institutions,
+systems and boundaries (also both geophysical and social). A case in point
+124
+125
+Philippine Political Science Journal 27 (50) 2006
